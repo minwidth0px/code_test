@@ -5142,18 +5142,14 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5125	自不量力		88	zì bù liànglì	overestimating your capabilities				t	1	wuxia	
 5167	元婴		90	yuán yīng	nascent soul				f	2	wuxia	
 5171	赤红		99	chì hóng	crimson				f	1	wuxia	
-5175	彩虹色的		99	Cǎi hóng sè de	"iridescent
-"				f	1	wuxia	
+5175	彩虹色的		99	Cǎi hóng sè de	iridescent				f	1	wuxia	
 5169	金子		100	jīn zi	gold				f	1	wuxia	
 5170	银		100	yín	silver				f	1	wuxia	
 5176	玉		100	yù	jade				f	1	wuxia	
-5177	钻石		100	zuàn shí	"diamond
-"				f	1	wuxia	
+5177	钻石		100	zuàn shí	diamond				f	1	wuxia	
 5179	宝石		100	bǎo shí	gem				f	1	wuxia	
-5180	珍珠		100	zhēn zhū	"pearl
-"				f	1	wuxia	
-5181	祖母绿		100	Zǔ mǔ lǜ	"emerald
-"				f	1	wuxia	
+5180	珍珠		100	zhēn zhū	pearl				f	1	wuxia	
+5181	祖母绿		100	Zǔ mǔ lǜ	emerald				f	1	wuxia	
 5182	红宝石		100	Hóng bǎo shí	ruby				f	1	wuxia	
 5183	蓝宝石		100	Lán bǎo shí	sapphire				f	1	wuxia	
 5184	水晶		100	shuǐ jīng	crystal				f	1	wuxia	
@@ -5229,8 +5225,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5097	驯服		101	xùn fú	tame				f	3	wuxia	
 5200	龍		101	lóng	dragon				f	3	wuxia	
 5199	龙		101	lóng	dragon				f	3	wuxia	
-5202	凤凰		101	fèng huáng	"phoenix
-"				f	3	wuxia	
+5202	凤凰		101	fèng huáng	phoenix				f	3	wuxia	
 5251	翱翔		101	ao xiáng	soar				f	3	wuxia	
 5252	心		98	xīn	heart				f	1	wuxia	
 5216	蛤蟆想吃天鹅肉			Hámá xiǎng chī tiāné ròu	toad wants to eat swan meat				f		wuxia	
@@ -5253,8 +5248,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5263	家族		103	jiā zú	clan				f	1	wuxia	
 5264	来自		103	lái zì	come from				f	2	wuxia	
 5215	分支		103	fēn zhī	branch				f	2	wuxia	
-5211	血脉		103	xuè mài	"bloodline
-"				f	2	wuxia	
+5211	血脉		103	xuè mài	bloodline				f	2	wuxia	
 5212	传承		103	chuán chéng	inheritance				f	3	wuxia	
 5213	先祖		103	xiān zǔ	ancestor				f	3	wuxia	
 5209	宗族		103	zōng zú	clan				f	2	wuxia	
