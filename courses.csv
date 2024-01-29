@@ -515,10 +515,10 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 14	大	1	9	dà	big	huge	large	major	f	2	hsk	
 286	再	2	16	zài	again	once more	re-	second	f	2	hsk	
 17	电脑	1	9	diàn nǎo	computer	CL:臺|台[tái]			f	5	hsk	21
+325	宾馆	3	38	bīn guǎn	hotel	lodge	hotel	CL:個|个	t	2	hsk	463
 365	饿	3	25	è	to be hungry	hungry			f	2	hsk	
 484	铅笔	3	31	qiān bǐ	pencil	CL:支	枝	桿|杆[gǎn]	t	1	hsk	
 308	班	3	33	bān	class	class	squad	work shift	t	1	hsk	
-325	宾馆	3	38	bīn guǎn	lodge	hotel	CL:個|个	t	2	hsk	463
 353	地方	3	29	dì fang	area	place	space	room	f	3	hsk	522
 315	北方	3	29	běi fāng	north	the northern part a country	China north of the Yellow River		f	4	hsk	443
 336	城市	3	25	chéng shì	city	town	CL:座[zuò]		f	4	hsk	487
@@ -4946,8 +4946,8 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 421	街道	3	29	jiē dào	street	CL:條|条[tiáo]	subdistrict	residential district	f	3	hsk	668
 357	电子	3	38	diàn zǐ	electronic	electron (particle physics)			f	3	hsk	532
 5188	翡翠		100	fěi cuì	jade				f	1	wuxia	
-5189	天蓝		99	tiān lán	azure				f	2	wuxia	
 5178	翠		99	cuì	emerald				f	3	wuxia	
+5189	天蓝		99	tiān lán	azure				t	2	wuxia	
 208	可能	2	16	kě néng	might (happen)	possible	probable	possibility	f	2	hsk	294
 540	相信	3	31	xiāng xìn	to believe	to believe	to accept sth as true		t	2	hsk	
 138	在	1	9	zài	at	(to be) in	to exist	in the middle of doing sth	t	1	hsk	
@@ -5142,14 +5142,10 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5125	自不量力		88	zì bù liànglì	overestimating your capabilities				t	1	wuxia	
 5167	元婴		90	yuán yīng	nascent soul				f	2	wuxia	
 5171	赤红		99	chì hóng	crimson				f	1	wuxia	
-5175	彩虹色的		99	Cǎi hóng sè de	iridescent				f	1	wuxia	
 5169	金子		100	jīn zi	gold				f	1	wuxia	
 5170	银		100	yín	silver				f	1	wuxia	
 5176	玉		100	yù	jade				f	1	wuxia	
-5177	钻石		100	zuàn shí	diamond				f	1	wuxia	
 5179	宝石		100	bǎo shí	gem				f	1	wuxia	
-5180	珍珠		100	zhēn zhū	pearl				f	1	wuxia	
-5181	祖母绿		100	Zǔ mǔ lǜ	emerald				f	1	wuxia	
 5182	红宝石		100	Hóng bǎo shí	ruby				f	1	wuxia	
 5183	蓝宝石		100	Lán bǎo shí	sapphire				f	1	wuxia	
 5184	水晶		100	shuǐ jīng	crystal				f	1	wuxia	
@@ -5178,6 +5174,10 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5174	彩虹			cǎi hóng	rainbow				f		wuxia	
 5173	翠绿		99	cuì lǜ	verdant				f	3	wuxia	
 5172	紫色		99	zǐ sè	purple				t	3	wuxia	
+5181	祖母绿		100	Zǔ mǔ lǜ	emerald				t	1	wuxia	
+5180	珍珠		100	zhēn zhū	pearl				t	1	wuxia	
+5177	钻石		100	zuàn shí	diamond				t	1	wuxia	
+5175	彩虹色的		99	Cǎi hóng sè de	iridescent				t	1	wuxia	
 5201	九尾狐		101	jiǔ wěi hú	nine tailed fox				f	1	wuxia	
 5203	蛇		101	shé	serpent				f	1	wuxia	
 5206	丹		89	dān	pill				f	1	wuxia	
@@ -5225,7 +5225,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5097	驯服		101	xùn fú	tame				f	3	wuxia	
 5200	龍		101	lóng	dragon				f	3	wuxia	
 5199	龙		101	lóng	dragon				f	3	wuxia	
-5202	凤凰		101	fèng huáng	phoenix				f	3	wuxia	
 5251	翱翔		101	ao xiáng	soar				f	3	wuxia	
 5252	心		98	xīn	heart				f	1	wuxia	
 5216	蛤蟆想吃天鹅肉			Hámá xiǎng chī tiāné ròu	toad wants to eat swan meat				f		wuxia	
@@ -5248,7 +5247,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5263	家族		103	jiā zú	clan				f	1	wuxia	
 5264	来自		103	lái zì	come from				f	2	wuxia	
 5215	分支		103	fēn zhī	branch				f	2	wuxia	
-5211	血脉		103	xuè mài	bloodline				f	2	wuxia	
+5202	凤凰		101	fèng huáng	phoenix				t	3	wuxia	
 5212	传承		103	chuán chéng	inheritance				f	3	wuxia	
 5213	先祖		103	xiān zǔ	ancestor				f	3	wuxia	
 5209	宗族		103	zōng zú	clan				f	2	wuxia	
@@ -5259,3 +5258,4 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5267	箭		99	jiàn	arrow				f	2	wuxia	
 5268	掌		99	zhǎng	palm				f	1	wuxia	
 5197	朱红		99	zhū hóng	vermilion				f	2	wuxia	
+5211	血脉		103	xuè mài	bloodline				t	2	wuxia	
