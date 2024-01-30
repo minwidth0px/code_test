@@ -1,86 +1,86 @@
-unit_id	unit_name	completed	hsk	course	unit_order
-1	intro	0	2	hsk	1
-2	food	0	2	hsk	2
-3	family	0	2	hsk	3
-4	money	0	2	hsk	4
-5	store	0	2	hsk	5
-6	date	0	2	hsk	6
-7	time	0	2	hsk	7
-9	home	0	2	hsk	9
-12	transportation	0	2	hsk	12
-13	food II	0	2	hsk	13
-14	reading	0	2	hsk	14
-15	school	0	2	hsk	15
-16	weather	0	2	hsk	16
-17	communication	0	2	hsk	17
-18	clothing	0	2	hsk	18
-19	doctor	0	2	hsk	19
-21	work	0	2	hsk	21
-22	directions	0	2	hsk	22
-23	activities	0	2	hsk	23
-24	family II	0	3	hsk	24
-25	food III	0	3	hsk	25
-26	home II	0	3	hsk	26
-27	nature	0	3	hsk	27
-28	work II	0	3	hsk	28
-29	places	0	3	hsk	29
-30	health II	0	3	hsk	32
-31	writing	0	3	hsk	31
-32	clothes II	0	3	hsk	30
-33	school II	0	3	hsk	33
-34	exercise	0	3	hsk	34
-35	animals	0	3	hsk	35
-36	celebrations	0	3	hsk	39
-37	assistence	0	3	hsk	37
-38	possetions	0	3	hsk	38
-39	seasons	0	3	hsk	36
-40	activities	0	3	hsk	40
-41	banking	0	3	hsk	41
-42	people	0	3	hsk	42
-43	feelings II	0	3	hsk	43
-44	food IV	0	3	hsk	44
-47	travel	0	4	hsk	47
-48	food V	0	4	hsk	48
-49	school III	0	4	hsk	49
-50	nature II	0	4	hsk	50
-51	work II	0	4	hsk	51
-52	transportation III	0	4	hsk	52
-53	home III	0	4	hsk	53
-54	health III	0	4	hsk	54
-55	shopping	0	4	hsk	55
-56	family III	0	4	hsk	56
-57	reading	0	4	hsk	57
-58	government	0	4	hsk	58
-59	sports	0	4	hsk	59
-60	time III	0	4	hsk	60
-61	events	0	4	hsk	61
-62	looks	0	4	hsk	62
-63	relationships	0	4	hsk	63
-66	tv/entertainment	0	4	hsk	66
-70	Communication	0	4	hsk	70
-71	epithets	0	4	hsk	71
-72	technology	0	4	hsk	72
-73	police	0	4	hsk	73
-78	food VI	0	4	hsk	78
-79	rlues	0	4	hsk	79
-80	wheather	0	4	hsk	80
-82	nationality	0	4	hsk	82
-83	quality	0	4	hsk	83
-84	feelings	0	4	hsk	84
-87	intro	0		wuxia	1
-88	insults	0		wuxia	13
-89	medicine	0		wuxia	3
-90	cultivation levels	0		wuxia	4
-91	places	0	4	hsk	91
-92	sleep	0	4	hsk	92
-93	plans	0	4	hsk	93
-94	acting	0	4	hsk	94
-95	school IV	0	4	hsk	95
-96	weapons	0		wuxia	2
-97	ect	0		wuxia	15
-98	phrases	0		wuxia	8
-99	colors	0		wuxia	10
-100	gems	0		wuxia	12
-101	animals	0		wuxia	7
-102	sects	0		wuxia	6
-103	clans	0		wuxia	9
+unit_id	unit_name	hsk	course	unit_order
+1	intro	2	hsk	1
+2	food	2	hsk	2
+3	family	2	hsk	3
+4	money	2	hsk	4
+5	store	2	hsk	5
+6	date	2	hsk	6
+7	time	2	hsk	7
+9	home	2	hsk	9
+12	transportation	2	hsk	12
+13	food II	2	hsk	13
+14	reading	2	hsk	14
+15	school	2	hsk	15
+16	weather	2	hsk	16
+17	communication	2	hsk	17
+18	clothing	2	hsk	18
+19	doctor	2	hsk	19
+21	work	2	hsk	21
+22	directions	2	hsk	22
+23	activities	2	hsk	23
+24	family II	3	hsk	24
+25	food III	3	hsk	25
+26	home II	3	hsk	26
+27	nature	3	hsk	27
+28	work II	3	hsk	28
+29	places	3	hsk	29
+30	health II	3	hsk	32
+31	writing	3	hsk	31
+32	clothes II	3	hsk	30
+33	school II	3	hsk	33
+34	exercise	3	hsk	34
+35	animals	3	hsk	35
+36	celebrations	3	hsk	39
+37	assistence	3	hsk	37
+38	possetions	3	hsk	38
+39	seasons	3	hsk	36
+40	activities	3	hsk	40
+41	banking	3	hsk	41
+42	people	3	hsk	42
+43	feelings II	3	hsk	43
+44	food IV	3	hsk	44
+47	travel	4	hsk	47
+48	food V	4	hsk	48
+49	school III	4	hsk	49
+50	nature II	4	hsk	50
+51	work II	4	hsk	51
+52	transportation III	4	hsk	52
+53	home III	4	hsk	53
+54	health III	4	hsk	54
+55	shopping	4	hsk	55
+56	family III	4	hsk	56
+57	reading	4	hsk	57
+58	government	4	hsk	58
+59	sports	4	hsk	59
+60	time III	4	hsk	60
+61	events	4	hsk	61
+62	looks	4	hsk	62
+63	relationships	4	hsk	63
+66	tv/entertainment	4	hsk	66
+70	Communication	4	hsk	70
+71	epithets	4	hsk	71
+72	technology	4	hsk	72
+73	police	4	hsk	73
+78	food VI	4	hsk	78
+79	rlues	4	hsk	79
+80	wheather	4	hsk	80
+82	nationality	4	hsk	82
+83	quality	4	hsk	83
+84	feelings	4	hsk	84
+87	intro		wuxia	1
+88	insults		wuxia	13
+89	medicine		wuxia	3
+90	cultivation levels		wuxia	4
+91	places	4	hsk	91
+92	sleep	4	hsk	92
+93	plans	4	hsk	93
+94	acting	4	hsk	94
+95	school IV	4	hsk	95
+96	weapons		wuxia	2
+97	ect		wuxia	15
+98	phrases		wuxia	8
+99	colors		wuxia	10
+100	gems		wuxia	12
+101	animals		wuxia	7
+102	sects		wuxia	6
+103	clans		wuxia	9
