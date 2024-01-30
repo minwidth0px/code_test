@@ -7,12 +7,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4654	异常	6		yì cháng	exceptional	abnormal	an anomaly		f		hsk	
 4655	意料	6		yì liào	to anticipate	to expect			f		hsk	
 4656	意识	6		yì shí	consciousness	awareness	consciously (i.e. deliberately)	to be aware	f		hsk	
-4657	意图	6		yì tú	intent	intention	intend	schematic diagram	f		hsk	
-827	进行	4	91	jìn xíng	to advance	to conduct	underway	in progress	f	1	hsk	
-1131	语言	4	57	yǔ yán	language	CL:門|门	種|种[zhǒng]		f	1	hsk	
-932	签证	4	58	qiān zhèng	visa	certificate	to certify	CL:個|个[gè]	f	1	hsk	
-1059	吸引	4	62	xī yǐn	to attract	investment etc)	CL:個|个[gè]		t	1	hsk	
-811	将来	4	60	jiāng lái	in the future	future	the future	CL:個|个[gè]	f	1	hsk	
 136	有	1	2	yǒu	to have	there is	there are	to exist	f	3	hsk	
 37	喝	1	2	hē	to drink	My goodness!			f	2	hsk	
 99	水	1	2	shuǐ	water	river	liquid	beverage	f	2	hsk	
@@ -60,9 +54,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5037	高级		97	gāo jí	high level	级	null	null	t	1	wuxia	
 5015	强		87	qiáng	strong	null	null	null	t	2	wuxia	
 5004	修炼		87	xiū liàn	cultivation	炼	null	null	t	2	wuxia	
-69	哪	1	5	nǎ	which	which			t	1	hsk	
-85	人	1	3	rén	man	person	people	CL:個|个	f	2	hsk	
-28	饭馆	1	13	fàn guǎn	restaurant	CL:家[jiā]			f	1	hsk	
 131	一	1	2	yī	one	1	single	a (article)	f	3	hsk	
 164	从	2	12	cóng	from	via	passing through	through (a gap)	f	1	hsk	
 169	到	2	12	dào	to (a place)	until (a time)	up to	to go	f	1	hsk	
@@ -71,6 +62,9 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4700	犹如	6		yóu rú	similar to	appearing to be			f		hsk	
 4701	有条不紊	6		yǒu tiáo bù wěn	regular and thorough (idiom); methodically arranged				f		hsk	
 4702	幼稚	6		yòu zhì	young	childish	naive		f		hsk	
+69	哪	1	5	nǎ	which	which			t	1	hsk	
+85	人	1	3	rén	man	person	people	CL:個|个	f	2	hsk	
+28	饭馆	1	13	fàn guǎn	restaurant	CL:家[jiā]			f	1	hsk	
 4703	诱惑	6		yòu huò	to entice	to lure	to induce	to attract	f		hsk	
 4704	愚蠢	6		yú chǔn	silly	stupid			f		hsk	
 4705	愚昧	6		yú mèi	ignorant	uneducated			f		hsk	
@@ -132,8 +126,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5026	功劳		102	gōng láo	contribution	劳	null	null	t	2	wuxia	
 5006	参		97	shēn	ginseng	null	null	null	t	1	wuxia	
 5007	株		97	zhū	counter for plants	null	null	null	t	1	wuxia	
-273	要	2	2	yào	want	vital	to want	will	t	2	hsk	
-4719	欲望	6		yù wàng	desire	longing	appetite	craving	f		hsk	
 4720	寓言	6		yù yán	fable	CL:則|则[zé]			f		hsk	
 4721	冤枉	6		yuān wang	hatred	injustice	bad luck	unjust treatment	f		hsk	
 4722	元首	6		yuán shǒu	head of state				f		hsk	
@@ -142,6 +134,8 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4725	圆满	6		yuán mǎn	satisfactory	consummate	perfect		f		hsk	
 4726	原告	6		yuán gào	complainant	plaintiff			f		hsk	
 4727	原理	6		yuán lǐ	principle	theory			f		hsk	
+273	要	2	2	yào	want	vital	to want	will	t	2	hsk	
+4719	欲望	6		yù wàng	desire	longing	appetite	craving	f		hsk	
 4728	原始	6		yuán shǐ	first	original	primitive	original (document etc)	f		hsk	
 4729	原先	6		yuán xiān	former	original			f		hsk	
 4730	园林	6		yuán lín	gardens	park	landscape garden		f		hsk	
@@ -204,13 +198,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5012	灵药		89	líng yào	elixir	药	null	null	t	3	wuxia	
 5035	练			liàn	to practice	null	null	null	t		wuxia	
 24	多	1	15	duō	many	much	a lot of	numerous	f	4	hsk	
-108	天气	1	16	tiān qì	weather				f	1	hsk	
-4738	运行	6		yùn xíng	to be in motion	to move	(of a computer) to run		f		hsk	
-4739	酝酿	6		yùn niàng	(of alcohol) to ferment	(of a crisis) to be brewing	to mull over (an issue)	to hold exploratory discussions	f		hsk	
-185	贵	2	5	guì	expensive	noble	your (name)	precious	f	3	hsk	
-153	百	2	5	bǎi	hundred	numerous	all kinds of		f	2	hsk	
-127	星期	1	6	xīng qī	week	CL:個|个[gè]	day of the week	Sunday	f	1	hsk	
-234	千	2	5	qiān	thousand	a swing			f	2	hsk	
 218	卖	2	5	mài	to sell	to betray	to spare no effort	to show off or flaunt	f	3	hsk	
 52	块	1	4	kuài	piece	chunk	piece	classifier for pieces of cloth	t	1	hsk	
 72	能	1	23	néng	to be able to	to be capable of	ability	capability	f	3	hsk	
@@ -219,6 +206,13 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4784	战术	6		zhàn shù	tactics				f		hsk	
 67	明天	1	6	míng tiān	tomorrow				f	1	hsk	103
 274	也	2	13	yě	also	too	(in Classical Chinese) final particle implying affirmation		f	3	hsk	
+108	天气	1	16	tiān qì	weather				f	1	hsk	
+4738	运行	6		yùn xíng	to be in motion	to move	(of a computer) to run		f		hsk	
+4739	酝酿	6		yùn niàng	(of alcohol) to ferment	(of a crisis) to be brewing	to mull over (an issue)	to hold exploratory discussions	f		hsk	
+185	贵	2	5	guì	expensive	noble	your (name)	precious	f	3	hsk	
+153	百	2	5	bǎi	hundred	numerous	all kinds of		f	2	hsk	
+127	星期	1	6	xīng qī	week	CL:個|个[gè]	day of the week	Sunday	f	1	hsk	
+234	千	2	5	qiān	thousand	a swing			f	2	hsk	
 109	听	1	23	tīng	to listen	to hear	to obey	a can (loanword from English 'tin')	f	3	hsk	
 230	便宜	2	5	pián yi	cheap	to let sb off lightly	small advantages	inexpensive	f	3	hsk	328
 251	跳舞	2	23	tiào wǔ	to dance				f	3	hsk	363
@@ -253,15 +247,14 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5003	球	1	23	qiú	ball				t	1	hsk	
 272	药	2	19	yào	medicine	drug	cure	CL:種|种	f	2	hsk	
 256	为	2	21	wèi	for	because of	for	to	t	3	hsk	
+267	休息	2	23	xiū xi	rest	to rest			f	4	hsk	376
 441	口	3	24	kǒu	mouth	classifier for things with mouths (people	domestic animals	cannons	f	2	hsk	
 363	锻炼	3	30	duàn liàn	to exercise	to work out	to toughen	to temper	t	3	hsk	536
-467	南	3	29	nán	south				f	4	hsk	
 405	会议	3	28	huì yì	meeting	conference	CL:場|场	屆|届[jiè]	f	4	hsk	639
 449	历史	3	33	lì shǐ	history	CL:門|门	段[duàn]		f	2	hsk	
 433	举行	3	34	jǔ xíng	to hold (a meeting	ceremony etc)			f	1	hsk	
 333	超市	3	44	chāo shì	supermarket	CL:家[jiā]			t	3	hsk	483
 502	叔叔	3	24	shū shu	father's younger brother	uncle	Taiwan pr. [shú shu]	CL:個|个[gè]	f	3	hsk	
-466	奶奶	3	24	nǎi nai	grandma	(respectful) mistress of the house	CL:位[wèi]		t	1	hsk	
 917	皮肤	4	54	pí fū	skin	CL:層|层	塊|块[kuài]		f	1	hsk	
 900	母亲	4	56	mǔ qīn	mother	also pr. with light tone [mǔ qin]	CL:個|个[gè]		f	1	hsk	
 1149	招聘	4	51	zhāo pìn	recruitment	to invite applications for a job			f	1	hsk	
@@ -274,11 +267,12 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4659	意向	6		yì xiàng	intention	purpose	intent	inclination	f		hsk	
 4660	意志	6		yì zhì	will	willpower	determination	CL:個|个[gè]	f		hsk	
 4661	毅力	6		yì lì	perseverance	willpower			f		hsk	
+466	奶奶	3	24	nǎi nai	grandma	(respectful) mistress of the house	CL:位[wèi]		t	1	hsk	
+1107	亿	4		yì	100 million				f		hsk	
 4662	毅然	6		yì rán	firmly	resolutely	without hesitation		f		hsk	
 4663	抑制	6		yì zhì	to inhibit	to keep down	to suppress		f		hsk	
 4664	阴谋	6		yīn móu	plot	conspiracy			f		hsk	
 4665	音响	6		yīn xiǎng	speakers or speaker (electronic)	acoustics	sound field (in a room or theater)		f		hsk	
-1107	亿	4		yì	100 million				f		hsk	
 4666	隐蔽	6		yǐn bì	to conceal	to hide	covert	under cover	f		hsk	
 1554	固体	5		gù tǐ	solid				f		hsk	
 1888	难看	5		nán kàn	ugly	unsightly			f		hsk	
@@ -336,10 +330,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1200	作者	4	57	zuò zhě	author	writer	CL:個|个[gè]		f	5	hsk	
 1008	硕士	4	95	shuò shì	master's degree	learned person			f	2	hsk	
 850	可是	4	93	kě shì	but	however			f	3	hsk	
-4696	优越	6		yōu yuè	superior	superiority			f		hsk	
-4697	忧郁	6		yōu yù	sullen	depressed	melancholy	dejected	f		hsk	
-4718	预兆	6		yù zhào	omen	prognosis (in medicine)			f		hsk	
-4740	孕育	6		yùn yù	to be pregnant	to produce offspring	to nurture (a development	school of thought	f		hsk	
 4741	砸	6		zá	smash	smashed	to fail	to get it wrong	f		hsk	
 4742	杂技	6		zá jì	acrobatics	CL:場|场[chǎng]			f		hsk	
 4743	杂交	6		zá jiāo	a hybrid				f		hsk	
@@ -353,6 +343,10 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4754	赞扬	6		zàn yáng	to praise	to approve of	to show approval		f		hsk	
 4755	赞助	6		zàn zhù	to support	to assist	to sponsor		f		hsk	
 4756	暂且	6		zàn qiě	for now	for the time being	temporarily		f		hsk	
+4696	优越	6		yōu yuè	superior	superiority			f		hsk	
+4697	忧郁	6		yōu yù	sullen	depressed	melancholy	dejected	f		hsk	
+4718	预兆	6		yù zhào	omen	prognosis (in medicine)			f		hsk	
+4740	孕育	6		yùn yù	to be pregnant	to produce offspring	to nurture (a development	school of thought	f		hsk	
 4757	糟蹋	6		zāo tà	to waste	to defile	to abuse	to insult	f		hsk	
 4758	遭受	6		zāo shòu	to suffer	to sustain (loss	misfortune)		f		hsk	
 4759	遭殃	6		zāo yāng	to suffer a calamity				f		hsk	
@@ -406,25 +400,25 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 227	女人	2	18	nǚ rén	woman				f	2	hsk	319
 228	旁边	2	9	páng biān	beside	side	to the side	beside	t	5	hsk	322
 165	错	2	14	cuò	mistake	wrong	bad	interlocking	f	3	hsk	
-9	菜	1	13	cài	dish	vegetables	vegetable	cuisine	t	1	hsk	
-161	穿	2	18	chuān	wear	to pierce	to perforate	to penetrate	t	1	hsk	
-186	还	2	21	hái	still	still in progress	still more	yet	f	1	hsk	
-149	坐	1	12	zuò	to sit	to take a seat	to take (a bus	airplane etc)	f	1	hsk	
-197	件	2	18	jiàn	item	component	classifier for events	things	f	1	hsk	
-518	同事	3	28	tóng shì	colleague	co-worker	CL:個|个	位[wèi]	f	1	hsk	
 395	河	3	27	hé	river	CL:條|条	道[dào]		f	1	hsk	
 455	楼	3	28	lóu	building	storied building	floor	CL:層|层	t	1	hsk	
 930	气候	4	80	qì hòu	climate	atmosphere	situation	CL:種|种[zhǒng]	f	1	hsk	
 297	自行车	2	12	zì xíng chē	bicycle	bike	CL:輛|辆[liàng]		f	2	hsk	420
 140	怎么	1	22	zěn me	how				t	1	hsk	186
 184	公司	2	21	gōng sī	company	company	firm	corporation	t	2	hsk	246
-248	它	2	9	tā	it				f	3	hsk	
 148	昨天	1	6	zuó tiān	yesterday				f	1	hsk	207
 167	大家	2	21	dà jiā	everyone	influential family	great expert		f	2	hsk	
 181	给	2	13	gěi	to	for	for the benefit of	to give	t	2	hsk	
 176	非常	2	16	fēi cháng	unusual	extraordinary	extreme	very	f	1	hsk	234
 150	做	1	21	zuò	to do	to make	to produce	to write	f	3	hsk	
 326	冰箱	3	26	bīng xiāng	refrigerator	freezer cabinet	refrigerator	CL:臺|台	t	1	hsk	466
+9	菜	1	13	cài	dish	vegetables	vegetable	cuisine	t	1	hsk	
+161	穿	2	18	chuān	wear	to pierce	to perforate	to penetrate	t	1	hsk	
+186	还	2	21	hái	still	still in progress	still more	yet	f	1	hsk	
+149	坐	1	12	zuò	to sit	to take a seat	to take (a bus	airplane etc)	f	1	hsk	
+197	件	2	18	jiàn	item	component	classifier for events	things	f	1	hsk	
+518	同事	3	28	tóng shì	colleague	co-worker	CL:個|个	位[wèi]	f	1	hsk	
+248	它	2	9	tā	it				f	3	hsk	
 328	菜单	3	25	cài dān	menu	CL:份	張|张[zhāng]		f	3	hsk	468
 356	电梯	3	28	diàn tī	elevator	escalator	CL:臺|台	部[bù]	f	1	hsk	531
 429	经过	3	28	jīng guò	to pass	to go through	process	course	f	2	hsk	692
@@ -434,7 +428,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 71	呢	1	14	ne	how about	'And ...?')	particle for inquiring about location ('Where is ...?')	particle signaling a pause	t	3	hsk	
 84	热	1	16	rè	hot	to heat up	hot (of weather)	heat	t	1	hsk	
 155	报纸	2	14	bào zhǐ	newspaper	newsprint	CL:份	期	f	4	hsk	211
-125	写	1	14	xiě	to write				f	3	hsk	
 168	但是	2	14	dàn shì	but	however			f	2	hsk	
 36	好	1	15	hǎo	good	well	proper	good to	f	3	hsk	
 96	时候	1	16	shí hou	time	length of time	moment	period	f	2	hsk	
@@ -469,8 +462,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 815	交流	4	70	jiāo liú	to exchange	exchange	communication	interaction	f	2	hsk	
 173	第一	2	14	dì yī	first	number one			f	4	hsk	
 250	题	2	15	tí	problem	problem for discussion	exam question	subject	t	4	hsk	
-307	搬	3	37	bān	to move	to shift	to remove	to transport	f	1	hsk	
-289	长	2	3	zhǎng	grow	head	elder	to grow	t	4	hsk	
 397	护照	3	38	hù zhào	passport	CL:本	個|个[gè]		f	1	hsk	
 470	年级	3	33	nián jí	grade	CL:個|个[gè]			f	1	hsk	
 400	画	3	31	huà	to draw	picture	painting	CL:幅	f	1	hsk	
@@ -484,9 +475,11 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1047	网站	4	72	wǎng zhàn	website	network station	node		f	1	hsk	
 1128	于是	4		yú shì	thereupon	as a result	consequently	thus	f		hsk	
 1196	尊重	4		zūn zhòng	to esteem	to respect	to honor	to value	f		hsk	
+307	搬	3	37	bān	to move	to shift	to remove	to transport	f	1	hsk	
+289	长	2	3	zhǎng	grow	head	elder	to grow	t	4	hsk	
+1647	急忙	5		jí máng	hastily				f		hsk	
 1207	岸	5		àn	bank	shore	beach	coast	f		hsk	
 1560	关闭	5		guān bì	to close	to shut			f		hsk	
-1647	急忙	5		jí máng	hastily				f		hsk	
 2493	醉	5		zuì	intoxicated				f		hsk	
 2650	波浪	6		bō làng	wave				f		hsk	
 3619	捆绑	6		kǔn bǎng	to bind				f		hsk	
@@ -496,7 +489,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 22	读	1	14	dú	to read	to study	reading of word (i.e. pronunciation)	similar to 拼音[pīn yīn]	f	2	hsk	
 303	矮	3	24	ǎi	short	short (in length)			t	2	hsk	
 244	手表	2	18	shǒu biǎo	wrist watch	CL:塊|块	隻|只	個|个[gè]	f	3	hsk	356
-267	休息	2	23	xiū xi	rest	to rest			f	4	hsk	376
 269	颜色	2	18	yán sè	color	CL:個|个[gè]			f	1	hsk	380
 290	丈夫	2	3	zhàng fu	husband	CL:個|个[gè]			f	3	hsk	408
 304	爱好	3	40	ài hào	hobbie	to take pleasure in	keen on	fond of	t	1	hsk	430
@@ -505,7 +497,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 321	变化	3	39	biàn huà	change	variation	to change	to vary	f	1	hsk	454
 341	春	3	39	chūn	spring	gay	joyful	youthful	t	1	hsk	
 324	别人	3	42	bié ren	other people	others	other person		f	1	hsk	460
-376	干净	3	26	gān jìng	clean	neat			f	3	hsk	
 351	灯	3	26	dēng	lamp	light	lantern	CL:盞|盏[zhǎn]	f	2	hsk	
 340	厨房	3	26	chú fáng	kitchen	CL:間|间[jiān]			f	2	hsk	496
 487	裙子	3	32	qún zi	skirt	CL:條|条[tiáo]			t	2	hsk	
@@ -542,8 +533,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 759	规定	4	83	guī dìng	regulation	to fix	to set	to formulate	t	3	hsk	
 322	表示	3	36	biǎo shì	to express	to show	to say	to state	f	2	hsk	456
 440	空调	3	39	kōng tiáo	air conditioning				f	2	hsk	
-313	包	3	37	bāo	bag	to wrap	to hold	to include	t	1	hsk	
-302	啊	3	27	a	modal particle ending sentence	showing affirmation	approval	or consent	f	1	hsk	
 316	被	3	26	bèi	by	by	(indicates passive-voice clauses)	(literary) to cover	t	1	hsk	
 374	附近	3	29	fù jìn	close	nearby	neighboring	next to	t	1	hsk	
 358	冬	3	39	dōng	winter	onomatopoeia for rat-a-tat etc			t	1	hsk	
@@ -553,10 +542,12 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4945	幢	6		zhuàng	classifier for buildings	carriage curtain (old)			f		hsk	
 4946	壮观	6		zhuàng guān	spectacular	magnificent sight			f		hsk	
 4947	壮丽	6		zhuàng lì	magnificence	magnificent	majestic	glorious	f		hsk	
-4948	壮烈	6		zhuàng liè	brave	heroic			f		hsk	
 4949	追悼	6		zhuī dào	to mourn	to pay last respects	mourning	memorial (service etc)	f		hsk	
 4950	追究	6		zhuī jiū	to investigate	to look into			f		hsk	
 4951	准则	6		zhǔn zé	norm	standard	criterion		f		hsk	
+313	包	3	37	bāo	bag	to wrap	to hold	to include	t	1	hsk	
+302	啊	3	27	a	modal particle ending sentence	showing affirmation	approval	or consent	f	1	hsk	
+4948	壮烈	6		zhuàng liè	brave	heroic			f		hsk	
 4952	琢磨	6		zhuó mó	to carve and polish (jade)	to polish and refine a literary work			f		hsk	
 4953	着手	6		zhuó shǒu	to put one's hand to it	to start out on a task	to set out		f		hsk	
 4954	着想	6		zhuó xiǎng	to give thought (to others)	to consider (other people's needs)			f		hsk	
@@ -608,8 +599,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 352	低	3	42	dī	low	beneath	to lower (one's head)	to let droop	f	1	hsk	
 332	差	3	42	chà	poor	to fall short of	lacking	wrong	t	2	hsk	
 309	半	3	44	bàn	half	semi-	incomplete	(after a number) and a half	f	3	hsk	
-465	拿	3	37	ná	to take	to seize	to catch	to apprehend	t	1	hsk	
-453	了解	3	40	liǎo jiě	to understand	to realize	to find out		f	1	hsk	
 451	练习	3	34	liàn xí	practice	drill	practice	CL:個|个[gè]	t	1	hsk	
 410	记得	3	38	jì de	to remember				f	1	hsk	
 458	马上	3	41	mǎ shàng	at once	right away	immediately	on horseback (i.e. by military force)	f	1	hsk	
@@ -622,6 +611,8 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 413	简单	3	31	jiǎn dān	simple	not complicated			f	1	hsk	658
 439	客人	3	36	kè rén	visitor	guest	customer	client	f	3	hsk	708
 427	借	3	37	jiè	to lend	to borrow	by means of	to take (an opportunity)	f	2	hsk	
+465	拿	3	37	ná	to take	to seize	to catch	to apprehend	t	1	hsk	
+453	了解	3	40	liǎo jiě	to understand	to realize	to find out		f	1	hsk	
 506	双	3	25	shuāng	pair	double	pair	both	t	3	hsk	
 447	离开	3	26	lí kāi	to depart	to leave			f	2	hsk	720
 508	司机	3	29	sī jī	driver	driver	CL:個|个[gè]		t	2	hsk	
@@ -678,11 +669,9 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 446	老	3	24	lǎo	old	old (of people)	venerable (person)	experienced	t	3	hsk	
 547	信	3	31	xìn	believe	mail	CL:封[fēng]	to trust	t	2	hsk	
 408	几乎	3	24	jī hū	almost	nearly	practically		f	3	hsk	645
-509	虽然	3	39	suī rán	although	even though	even if		f	1	hsk	
 606	包括	4		bāo kuò	to comprise	to include	to involve	to incorporate	f		hsk	
 555	爷爷	3	24	yé ye	grandgather	paternal grandfather	CL:個|个[gè]		t	1	hsk	
 584	只	3	35	zhī	classifier for birds and certain animals	one of a pair	some utensils	vessels etc	f	1	hsk	
-590	周末	3	38	zhōu mò	weekend				f	1	hsk	
 567	银行	3	41	yín háng	bank	CL:家	個|个[gè]		f	1	hsk	
 579	站	3	29	zhàn	station	to stand	to halt	to stop	f	1	hsk	
 559	一样	3	32	yī yàng	same	like	equal to	the same as	f	1	hsk	
@@ -692,6 +681,8 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 577	月亮	3	27	yuè liang	moon				f	3	hsk	
 552	选择	3	25	xuǎn zé	to select	to pick	choice	option	f	3	hsk	
 587	中间	3	29	zhōng jiān	between	intermediate	mid	middle	f	4	hsk	
+509	虽然	3	39	suī rán	although	even though	even if		f	1	hsk	
+590	周末	3	38	zhōu mò	weekend				f	1	hsk	
 598	作业	3	33	zuò yè	homework	homework	work	task	t	1	hsk	
 578	云	3	27	yún	cloud	CL:朵[duǒ]			f	3	hsk	
 541	像	3	30	xiàng	to resemble	to be like	to look as if	such as	f	3	hsk	
@@ -723,6 +714,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 602	安全	4		ān quán	safe	secure	safety	security	f		hsk	
 498	使	3	43	shǐ	to make	to cause	to enable	to use	f	3	hsk	
 521	突然	3	28	tū rán	sudden	abrupt	unexpected		f	3	hsk	
+1021	谈	4		tán	to speak	to talk	to converse	to chat	f		hsk	
 613	倍	4	53	bèi	times (multiplication)	three etc) -fold	times (multiplier)	double	t	4	hsk	
 524	完成	3	28	wán chéng	to complete	to accomplish			f	4	hsk	
 482	其他	3	28	qí tā	other	the others	else	other than (that person)	f	4	hsk	
@@ -744,13 +736,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 614	本来	4	93	běn lái	original	originally	at first	it goes without saying	f	3	hsk	
 530	位	3	36	wèi	formal counter for people	location	place	seat	t	3	hsk	
 561	以前	3		yǐ qián	before	formerly	previous	ago	f		hsk	
-563	一般	3	42	yī bān	generally	ordinary	so-so	common	t	1	hsk	
-564	一边	3	43	yī biān	one side	either side	on the one hand	on the other hand	f	1	hsk	
-615	笨	4	71	bèn	stupid	foolish	silly	slow-witted	f	1	hsk	
-627	不过	4		bù guò	only	merely	no more than	but	f		hsk	
-632	擦	4		cā	to wipe	to erase	rubbing (brush stroke in painting)	to clean	f		hsk	
-681	等	4		děng	class	rank	grade	equal to	f		hsk	
-682	等	4		děng	class	rank	grade	equal to	f		hsk	
 639	尝	4	48	cháng	to taste				f	1	hsk	
 643	乘坐	4	52	chéng zuò	to ride (in a vehicle)				f	1	hsk	
 655	窗户	4	53	chuāng hu	window	CL:個|个	扇[shàn]		f	1	hsk	
@@ -763,6 +748,13 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 642	吵	4	63	chǎo	to quarrel	to make a noise	noisy	to disturb by making a noise	f	4	hsk	
 617	毕业	4	49	bì yè	graduation	to graduate	to finish school		f	1	hsk	
 573	又	3	28	yòu	again	also	both... and...	and yet	t	3	hsk	
+563	一般	3	42	yī bān	generally	ordinary	so-so	common	t	1	hsk	
+564	一边	3	43	yī biān	one side	either side	on the one hand	on the other hand	f	1	hsk	
+615	笨	4	71	bèn	stupid	foolish	silly	slow-witted	f	1	hsk	
+627	不过	4		bù guò	only	merely	no more than	but	f		hsk	
+632	擦	4		cā	to wipe	to erase	rubbing (brush stroke in painting)	to clean	f		hsk	
+681	等	4		děng	class	rank	grade	equal to	f		hsk	
+682	等	4		děng	class	rank	grade	equal to	f		hsk	
 575	愿意	3	37	yuàn yì	willing	to want	ready	willing (to do sth)	t	3	hsk	
 557	一共	3	41	yī gòng	altogether				f	2	hsk	
 576	越	3	44	yuè	the more	to climb over	to surpass	the more... the more	t	4	hsk	
@@ -802,14 +794,13 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 607	保护	4	73	bǎo hù	to protect	to defend	to safeguard	protection	f	2	hsk	
 665	大概	4	92	dà gài	roughly	probably	rough	approximate	f	2	hsk	
 634	材料	4	83	cái liào	material	data	makings	stuff	f	1	hsk	
+1101	钥匙	4	53	yào shi	key	CL:把[bǎ]			f	1	hsk	
 629	不管	4	93	bù guǎn	no matter (what	how)	regardless of	no matter	f	2	hsk	
 646	成为	4	95	chéng wéi	to become	to turn into			f	2	hsk	
 622	表扬	4	94	biǎo yáng	to praise	to commend			f	2	hsk	
 592	祝	3	36	zhù	to wish	to express good wishes	to pray	(old) wizard	f	2	hsk	
 551	需要	3	39	xū yào	to need	to want	to demand	to require	f	2	hsk	
 554	要求	3	31	yāo qiú	to request	to require	to stake a claim	to ask	f	3	hsk	
-650	抽烟	4	79	chōu yān	to smoke (a cigarette	tobacco)			f	1	hsk	
-661	打扰	4	79	dǎ rǎo	to disturb	to bother	to trouble		f	1	hsk	
 658	粗心	4		cū xīn	careless	thoughtless			f		hsk	
 703	发展	4		fā zhǎn	development	growth	to develop	to grow	f		hsk	
 707	反对	4		fǎn duì	to fight against	to oppose	to be opposed to	opposition	f		hsk	
@@ -821,6 +812,8 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 720	否则	4		fǒu zé	if not	otherwise	else	or else	f		hsk	
 734	干	4		gàn	tree trunk	main part of sth	to manage	to work	f		hsk	
 746	估计	4		gū jì	to estimate	to reckon	CL:個|个[gè]		f		hsk	
+650	抽烟	4	79	chōu yān	to smoke (a cigarette	tobacco)			f	1	hsk	
+661	打扰	4	79	dǎ rǎo	to disturb	to bother	to trouble		f	1	hsk	
 747	鼓励	4		gǔ lì	to encourage				f		hsk	
 750	故意	4		gù yì	deliberately	on purpose			f		hsk	
 752	关键	4		guān jiàn	crucial point	crux	CL:個|个[gè]	key	f		hsk	
@@ -877,19 +870,19 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 696	对面	4	91	duì miàn	opposite	across (the street)	directly in front	to be face to face	t	2	hsk	
 748	鼓掌	4	94	gǔ zhǎng	to applaud	to clap			f	2	hsk	
 680	得意	4	94	dé yì	proud of oneself	pleased with oneself	complacent		f	2	hsk	
-791	积极	4		jī jí	active	energetic	vigorous	positive (outlook)	f		hsk	
-793	极其	4		jí qí	extremely				f		hsk	
 795	及时	4		jí shí	in time	promptly	without delay	timely	f		hsk	
 813	降低	4		jiàng dī	to reduce	to lower	to bring down		f		hsk	
 814	交	4		jiāo	to hand over	to deliver	to pay (money)	to turn over	f		hsk	
 817	骄傲	4		jiāo ào	pride	arrogance	conceited	proud of sth	f		hsk	
-821	接受	4		jiē shòu	to accept	to receive			f		hsk	
 823	结果	4		jié guǒ	outcome	result	conclusion	in the end	f		hsk	
 824	解释	4		jiě shì	explanation	to explain	to interpret	to resolve	f		hsk	
 776	猴子	4	50	hóu zi	monkey	CL:隻|只[zhī]			f	1	hsk	
 801	技术	4	72	jì shù	technology	technique	skill	CL:門|门	f	1	hsk	
 828	禁止	4	79	jìn zhǐ	to prohibit	to forbid	to ban		f	1	hsk	
 760	国际	4	82	guó jì	international				f	1	hsk	
+791	积极	4		jī jí	active	energetic	vigorous	positive (outlook)	f		hsk	
+793	极其	4		jí qí	extremely				f		hsk	
+821	接受	4		jiē shòu	to accept	to receive			f		hsk	
 777	厚	4	83	hòu	thick	deep or profound	kind	generous	f	1	hsk	
 767	寒假	4	47	hán jià	winter vacation				f	1	hsk	
 833	经验	4		jīng yàn	to experience	experience			f		hsk	
@@ -948,8 +941,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 794	即使	4	93	jí shǐ	even if	even though	given that		f	2	hsk	
 788	获得	4	95	huò dé	to obtain	to receive	to get		f	2	hsk	
 764	过程	4	60	guò chéng	process 	process	CL:個|个[gè]		t	4	hsk	
-848	咳嗽	4	54	ké sou	to cough	CL:陣|阵[zhèn]			f	1	hsk	
-846	棵	4	50	kē	classifier for trees	cabbages	plants etc		f	1	hsk	
 855	苦	4	48	kǔ	bitter	hardship	pain	to suffer	f	1	hsk	
 835	警察	4	73	jǐng chá	police	policeman	policewoman	CL:個|个[gè]	f	1	hsk	
 892	马虎	4	71	mǎ hu	careless	sloppy	negligent	skimpy	f	1	hsk	
@@ -959,6 +950,8 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 918	脾气	4		pí qi	character	temperament	disposition	bad temper	f		hsk	
 922	平时	4		píng shí	ordinarily	in normal times	in peacetime		f		hsk	
 925	普遍	4		pǔ biàn	universal	general	widespread	common	f		hsk	
+848	咳嗽	4	54	ké sou	to cough	CL:陣|阵[zhèn]			f	1	hsk	
+846	棵	4	50	kē	classifier for trees	cabbages	plants etc		f	1	hsk	
 926	其次	4		qí cì	next	secondly			f		hsk	
 927	其中	4		qí zhōng	among	in	included among these		f		hsk	
 896	梦	4	92	mèng	dream	CL:場|场	個|个[gè]		f	1	hsk	
@@ -1010,7 +1003,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 838	镜子	4	62	jìng zi	mirror	CL:面	個|个[gè]		f	2	hsk	
 871	理发	4	62	lǐ fà	haircut	hairdressing			t	2	hsk	
 882	聊天	4	70	liáo tiān	to chat	to gossip			f	3	hsk	
-865	懒	4	71	lǎn	lazy				f	3	hsk	
 902	耐心	4	71	nài xīn	to be patient	patience			f	3	hsk	
 897	密码	4	72	mì mǎ	password	secret code	password	pin number	t	2	hsk	
 880	凉快	4	80	liáng kuai	nice and cold	pleasantly cool			f	2	hsk	
@@ -1020,9 +1012,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 915	陪	4	91	péi	to accompany	to keep sb company	to assist	old variant of 賠|赔[péi]	f	3	hsk	
 858	困难	4	93	kùn nan	difficult	challenging	straitened circumstances	difficult situation	f	3	hsk	
 955	任何	4	93	rèn hé	any	whatever	whichever	whatsoever	f	3	hsk	
-963	森林	4	50	sēn lín	forest	CL:片[piàn]			f	1	hsk	
-942	请客	4	61	qǐng kè	to give a dinner party	to entertain guests	to invite to dinner		f	1	hsk	
-911	暖和	4	80	nuǎn huo	warm	nice and warm			f	1	hsk	
 978	师傅	4		shī fu	master	qualified worker	respectful form of address for older men	CL:個|个	f		hsk	
 986	试	4		shì	to test	to try	experiment	examination	f		hsk	
 990	适应	4		shì yìng	to adapt	to fit	to suit		f		hsk	
@@ -1033,10 +1022,12 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1010	速度	4		sù dù	speed	rate	velocity	CL:個|个[gè]	f		hsk	
 933	墙	4	53	qiáng	wall	CL:面	堵[dǔ]		f	1	hsk	
 970	申请	4	58	shēn qǐng	to apply for sth	application (form etc)	CL:份[fèn]		f	1	hsk	
+963	森林	4	50	sēn lín	forest	CL:片[piàn]			f	1	hsk	
+942	请客	4	61	qǐng kè	to give a dinner party	to entertain guests	to invite to dinner		f	1	hsk	
+911	暖和	4	80	nuǎn huo	warm	nice and warm			f	1	hsk	
 1014	随便	4		suí biàn	as one wishes	as one pleases	at random	negligent	f		hsk	
 1015	随着	4		suí zhe	along with	in the wake of	following		f		hsk	
 1018	抬	4		tái	to lift	to raise	(of two or more persons) to carry		f		hsk	
-1021	谈	4		tán	to speak	to talk	to converse	to chat	f		hsk	
 1022	弹	4		tán	to pluck (a string)	to play (a string instrument)	to spring or leap	to shoot (e.g. with a catapult)	f		hsk	
 1024	躺	4		tǎng	to recline	to lie down			f		hsk	
 1025	趟	4		tàng	classifier for times	round trips or rows	a time	a trip	f		hsk	
@@ -1087,8 +1078,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 924	破	4	83	pò	damaged	damaged	worn out	to break	t	2	hsk	
 940	情况	4	93	qíng kuàng	circumstances	state of affairs	situation	CL:個|个	f	2	hsk	
 997	受到	4	94	shòu dào	to receive	to suffer	obtained	given	f	2	hsk	
-1016	孙子	4	56	sūn zi	grandson	son's son			f	1	hsk	
-979	湿润	4	80	shī rùn	moist				f	1	hsk	
 1042	袜子	4	83	wà zi	socks	stockings	CL:隻|只	對|对	f	1	hsk	
 1056	无论	4		wú lùn	no matter what or how	regardless of whether...			f		hsk	
 1057	误会	4		wù huì	to misunderstand	to mistake	misunderstanding	CL:個|个[gè]	f		hsk	
@@ -1100,11 +1089,13 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1079	行	4		xíng	to walk	to go	to travel	a visit	f		hsk	
 1090	呀	4		ya	(particle equivalent to 啊 after a vowel	expressing surprise or doubt)			f		hsk	
 1098	养成	4		yǎng chéng	to cultivate	to raise	to form (a habit)	to acquire	f		hsk	
+1016	孙子	4	56	sūn zi	grandson	son's son			f	1	hsk	
+979	湿润	4	80	shī rùn	moist				f	1	hsk	
+1103	页	4	57	yè	page	leaf			f	1	hsk	
 1102	也许	4		yě xǔ	perhaps	maybe			f		hsk	
 1105	一切	4		yī qiè	everything	every	all		f		hsk	
 1106	以	4		yǐ	to use	according to	so as to	by means of	f		hsk	
 1003	帅	4	62	shuài	handsome	graceful	smart	commander in chief	f	1	hsk	
-1103	页	4	57	yè	page	leaf			f	1	hsk	
 1045	往往	4	60	wǎng wǎng	often	frequently			f	1	hsk	
 1070	小说	4	57	xiǎo shuō	novel	fiction	CL:本	部[bù]	f	1	hsk	
 1065	香	4	48	xiāng	fragrant	sweet smelling	aromatic	savory or appetizing	f	1	hsk	
@@ -1114,7 +1105,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1117	永远	4		yǒng yuǎn	forever	eternal			f		hsk	
 1118	优点	4		yōu diǎn	merit	benefit	strong point	advantage	f		hsk	
 1058	西红柿	4	48	xī hóng shì	tomato	CL:隻|只[zhī]			f	1	hsk	
-1101	钥匙	4	53	yào shi	key	CL:把[bǎ]			f	1	hsk	
 1104	叶子	4	50	yè zi	leaf	leaf	CL:片[piàn]		t	2	hsk	
 980	狮子	4	50	shī zi	lion	CL:隻|只	頭|头[tóu]	Leo (star sign)	f	3	hsk	
 1019	台	4		tái	typhoon				f		hsk	
@@ -1159,9 +1149,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1054	无	4	83	wú	-less	not to have	no	none	f	2	hsk	
 1009	死	4	84	sǐ	to die	impassable	uncrossable	inflexible	f	3	hsk	
 1110	因此	4	60	yīn cǐ	thus	consequently	as a result		f	4	hsk	
-1092	严格	4	71	yán gé	strict	stringent	tight	rigorous	f	1	hsk	
-1129	与	4		yǔ	and	to give	together with		f		hsk	
-1134	圆	4		yuán	circle	round	circular	spherical	f		hsk	
 1140	允许	4		yǔn xǔ	to permit	to allow			f		hsk	
 1150	真正	4		zhēn zhèng	genuine	real	true	genuinely	f		hsk	
 1152	整齐	4		zhěng qí	orderly	neat	even	tidy	f		hsk	
@@ -1174,6 +1161,9 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1161	直接	4		zhí jiē	direct	opposite: indirect 間接|间接	immediate	directly	f		hsk	
 1162	值得	4		zhí de	to be worth	to deserve			f		hsk	
 1166	只好	4		zhǐ hǎo	without any better option	to have to	to be forced to		f		hsk	
+1092	严格	4	71	yán gé	strict	stringent	tight	rigorous	f	1	hsk	
+1129	与	4		yǔ	and	to give	together with		f		hsk	
+1134	圆	4		yuán	circle	round	circular	spherical	f		hsk	
 1167	只要	4		zhǐ yào	if only	so long as			f		hsk	
 1169	至少	4		zhì shǎo	at least	(to say the) least			f		hsk	
 1172	重点	4		zhòng diǎn	important point	main point	focus	key (project etc)	f		hsk	
@@ -1229,7 +1219,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1174	周围	4	91	zhōu wéi	surroundings	environment	to encompass		f	3	hsk	
 1115	硬	4	92	yìng	hard	stiff	strong	firm	f	2	hsk	
 1160	知识	4	95	zhī shi	knowledge	knowledge-related	knowledge	CL:門|门[mén]	t	2	hsk	
-1202	爱护	5		ài hù	to cherish	to treasure	to take care of	to love and protect	f		hsk	
 1203	爱惜	5		ài xī	to cherish	to treasure	to use sparingly		f		hsk	
 1204	爱心	5		ài xīn	compassion	CL:片[piàn]			f		hsk	
 1205	安慰	5		ān wèi	to comfort	to console	CL:個|个[gè]		f		hsk	
@@ -1242,6 +1231,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1213	傍晚	5		bàng wǎn	in the evening	when night falls	towards evening	at night fall	f		hsk	
 1214	包裹	5		bāo guǒ	wrap up	bind up	bundle	parcel	f		hsk	
 1215	包含	5		bāo hán	to contain	to embody	to include		f		hsk	
+1202	爱护	5		ài hù	to cherish	to treasure	to take care of	to love and protect	f		hsk	
 1216	包子	5		bāo zi	steamed stuffed bun	CL:個|个[gè]			f		hsk	
 1217	薄	5		báo	thin	cold in manner	indifferent	weak	f		hsk	
 1218	宝贝	5		bǎo bèi	treasured object	treasure	darling	baby	f		hsk	
@@ -1276,7 +1266,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1247	表明	5		biǎo míng	to make clear	to make known	to state clearly	to indicate	f		hsk	
 1248	表情	5		biǎo qíng	(facial) expression	to express one's feelings	expression		f		hsk	
 1249	表现	5		biǎo xiàn	to show	to show off	to display	to manifest	f		hsk	
-1250	丙	5		bǐng	third of 10 heavenly stems 十天干	third in order	letter 'C' or roman 'III' in list 'A', 'B', 'C', or 'I', 'II', 'III' etc	propyl	f		hsk	
+1250	丙	5		bǐng	third of 10 heavenly stems 十天干	third in order	letter 'C' or roman 'III' in list 'A' 'B' 'C' or 'I' 'II' 'III' etc	propyl	f		hsk	
 1251	病毒	5		bìng dú	virus				f		hsk	
 1252	玻璃	5		bō li	glass	nylon	plastic	CL:張|张	f		hsk	
 1253	博物馆	5		bó wù guǎn	museum				f		hsk	
@@ -1420,7 +1410,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1384	待遇	5		dài yù	treatment	pay	wages	status	f		hsk	
 1385	担任	5		dān rèn	to hold a governmental office or post	to assume office of	to take charge of	to serve as	f		hsk	
 1386	单纯	5		dān chún	simple	pure	alone	merely	f		hsk	
-1387	单调	5		dān diào	monotonous				f		hsk	
 1388	单独	5		dān dú	alone	by oneself	on one's own		f		hsk	
 1389	单位	5		dān wèi	a unit	unit (of measure)	work unit (one's workplace)	CL:個|个[gè]	f		hsk	
 1391	耽误	5		dān wu	to delay	to hold up	to waste time	to interfere with	f		hsk	
@@ -1456,16 +1445,16 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1421	电池	5		diàn chí	battery	CL:節|节	組|组[zǔ]		f		hsk	
 1422	电台	5		diàn tái	transmitter-receiver	broadcasting station	radio station	CL:個|个	f		hsk	
 1423	钓	5		diào	to fish with a hook and bait				f		hsk	
-1424	丁	5		dīng	fourth of 10 heavenly stems 十天干	fourth in order	letter 'D' or roman 'IV' in list 'A', 'B', 'C', or 'I', 'II', 'III' etc	butyl	f		hsk	
+1424	丁	5		dīng	fourth of 10 heavenly stems 十天干	fourth in order	letter 'D' or roman 'IV' in list 'A' 'B' 'C' or 'I' 'II' 'III' etc	butyl	f		hsk	
 1425	顶	5		dǐng	apex	crown of the head	top	roof	f		hsk	
 1426	冻	5		dòng	to freeze	to feel very cold	aspic or jelly		f		hsk	
 1427	洞	5		dòng	cave	hole	zero (unambiguous spoken form when spelling out numbers)	CL:個|个[gè]	f		hsk	
 1428	动画片	5		dòng huà piàn	animated film				f		hsk	
 1429	逗	5		dòu	to stay	to stop	to pause (while reading)	to tease (play with)	f		hsk	
-1430	豆腐	5		dòu fu	tofu	bean curd			f		hsk	
 1431	独立	5		dú lì	independent	independence	to stand alone		f		hsk	
 1432	独特	5		dú tè	unique	distinct	having special characteristics		f		hsk	
 1433	度过	5		dù guò	to pass	to spend (time)	to survive	to get through	f		hsk	
+1430	豆腐	5		dòu fu	tofu	bean curd			f		hsk	
 1434	短信	5		duǎn xìn	text message	SMS			f		hsk	
 1435	堆	5		duī	to pile up	to heap up	a mass	pile	f		hsk	
 1436	对比	5		duì bǐ	to contrast	contrast	ratio	CL:個|个[gè]	f		hsk	
@@ -1650,6 +1639,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1621	化学	5		huà xué	chemistry	chemical			f		hsk	
 1622	话题	5		huà tí	subject (of a talk or conversation)	topic			f		hsk	
 1623	怀念	5		huái niàn	to cherish the memory of	to think of	reminisce		f		hsk	
+1705	结实	5		jiē shi	rugged	sturdy			f		hsk	
 1624	缓解	5		huǎn jiě	to blunt	to dull	to ease	to help relieve (a crisis)	f		hsk	
 1625	幻想	5		huàn xiǎng	delusion	fantasy			f		hsk	
 1626	慌张	5		huāng zhāng	confused	flustered			f		hsk	
@@ -1689,7 +1679,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1661	嘉宾	5		jiā bīn	esteemed guest	honored guest	guest (on a show)		f		hsk	
 1662	夹子	5		jiā zi	clip	clamp	tongs	folder	f		hsk	
 1663	甲	5		jiǎ	first of the ten heavenly stems 十天干[shí tiān gān]	(used for an unspecified person or thing)	first (in a list	as a party to a contract etc)	f		hsk	
-1664	假如	5		jiǎ rú	if				f		hsk	
 1665	假装	5		jiǎ zhuāng	to feign	to pretend			f		hsk	
 1666	嫁	5		jià	(of a woman) to marry	to marry off a daughter	to shift (blame etc)		f		hsk	
 1667	价值	5		jià zhí	value	worth	fig. values (ethical	cultural etc)	f		hsk	
@@ -1698,6 +1687,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1670	肩膀	5		jiān bǎng	shoulder				f		hsk	
 1671	坚决	5		jiān jué	firm	resolute	determined		f		hsk	
 1673	尖锐	5		jiān ruì	sharp	intense	penetrating	pointed	f		hsk	
+1664	假如	5		jiǎ rú	if				f		hsk	
 1674	艰巨	5		jiān jù	arduous	terrible (task)	very difficult	formidable	f		hsk	
 1675	艰苦	5		jiān kǔ	difficult	hard	arduous		f		hsk	
 1676	捡	5		jiǎn	to pick up	to collect	to gather		f		hsk	
@@ -1729,7 +1719,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1702	接近	5		jiē jìn	to approach	to get close to			f		hsk	
 1703	接着	5		jiē zhe	to catch and hold on	to continue	to go on to do sth	to follow	f		hsk	
 1704	阶段	5		jiē duàn	stage	section	phase	period	f		hsk	
-1705	结实	5		jiē shi	rugged	sturdy			f		hsk	
 1706	节	5		jié	festival	holiday	node	joint	f		hsk	
 1707	节省	5		jié shěng	saving	to save	to use sparingly	to cut down on	f		hsk	
 1708	结构	5		jié gòu	structure	composition	makeup	architecture	f		hsk	
@@ -1773,6 +1762,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1747	决赛	5		jué sài	finals (of a competition)				f		hsk	
 1748	决心	5		jué xīn	determination	resolution	determined	firm and resolute	f		hsk	
 1749	绝对	5		jué duì	absolute	unconditional			f		hsk	
+1762	烤鸭	5		kǎo yā	roast duck				f		hsk	
 1751	军事	5		jūn shì	military affairs	military matters	military		f		hsk	
 1752	均匀	5		jūn yún	even	well-distributed	homogeneous		f		hsk	
 1753	卡车	5		kǎ chē	truck	CL:輛|辆[liàng]			f		hsk	
@@ -1784,7 +1774,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1759	看不起	5		kàn bu qǐ	to look down upon	to despise			f		hsk	
 1760	看来	5		kàn lai	apparently	it seems that			f		hsk	
 1761	抗议	5		kàng yì	to protest	protest			f		hsk	
-1762	烤鸭	5		kǎo yā	roast duck				f		hsk	
 1763	颗	5		kē	classifier for small spheres	pearls	corn grains	teeth	f		hsk	
 1764	可见	5		kě jiàn	it can clearly be seen (that this is the case)	it is (thus) clear	clear	visible	f		hsk	
 1765	可靠	5		kě kào	reliable				f		hsk	
@@ -1844,13 +1833,13 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1817	粮食	5		liáng shi	foodstuff	cereals	CL:種|种[zhǒng]		f		hsk	
 1818	了不起	5		liǎo bu qǐ	amazing	terrific	extraordinary		f		hsk	
 1819	临时	5		lín shí	at the instant sth happens	temporary	interim	ad hoc	f		hsk	
-1820	铃	5		líng	(small) bell	CL:隻|只[zhī]			f		hsk	
 1821	零件	5		líng jiàn	part	component			f		hsk	
 1822	零钱	5		líng qián	change (of money)	small change	pocket money		f		hsk	
 1823	零食	5		líng shí	between-meal nibbles	snacks			f		hsk	
 1824	灵活	5		líng huó	flexible	nimble	agile		f		hsk	
 1825	领导	5		lǐng dǎo	lead	leading	to lead	leadership	f		hsk	
 1826	领域	5		lǐng yù	domain	sphere	field	territory	f		hsk	
+1820	铃	5		líng	(small) bell	CL:隻|只[zhī]			f		hsk	
 1827	流传	5		liú chuán	to spread	to circulate	to hand down		f		hsk	
 1828	浏览	5		liú lǎn	to skim over	to browse			f		hsk	
 1829	龙	5		lóng	dragon	CL:條|条[tiáo]	imperial		f		hsk	
@@ -1917,7 +1906,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1891	嫩	5		nèn	tender	soft	delicate	light (color)	f		hsk	
 1892	能干	5		néng gàn	capable	competent			f		hsk	
 1893	能源	5		néng yuán	energy	power source	CL:個|个[gè]		f		hsk	
-1894	年代	5		nián dài	a decade of a century (e.g. the Sixties)	age	era	period	f		hsk	
 1895	年纪	5		nián jì	age	CL:把	個|个[gè]		f		hsk	
 1896	念	5		niàn	to read	to study (a degree course)	to read aloud	to miss (sb)	f		hsk	
 1897	宁可	5		nìng kě	preferably	one would prefer to...(or not to...)	would rather	(would) be better to	f		hsk	
@@ -1927,6 +1915,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1901	农业	5		nóng yè	agriculture	farming			f		hsk	
 1902	女士	5		nǚ shì	lady	madam	CL:個|个	位[wèi]	f		hsk	
 1903	偶然	5		ǒu rán	incidentally	occasional	occasionally	by chance	f		hsk	
+1894	年代	5		nián dài	a decade of a century (e.g. the Sixties)	age	era	period	f		hsk	
 1904	拍	5		pāi	to pat	to clap	to slap	to swat	f		hsk	
 1905	排队	5		pái duì	to line up				f		hsk	
 1906	排球	5		pái qiú	volleyball	CL:個|个[gè]			f		hsk	
@@ -1998,13 +1987,13 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1972	清淡	5		qīng dàn	light (of food	not greasy or strongly flavored)	insipid	slack (sales)	f		hsk	
 1973	情景	5		qíng jǐng	scene	sight	circumstances	CL:個|个[gè]	f		hsk	
 1974	情绪	5		qíng xù	mood	state of mind	moodiness	CL:種|种[zhǒng]	f		hsk	
-1975	请求	5		qǐng qiú	request	CL:個|个[gè]			f		hsk	
 1976	庆祝	5		qìng zhù	to celebrate				f		hsk	
 1977	球迷	5		qiú mí	soccer fan	crazy about ball sports	CL:個|个[gè]		f		hsk	
 1978	趋势	5		qū shì	trend	tendency			f		hsk	
 1979	娶	5		qǔ	to take a wife	to marry (a woman)			f		hsk	
 1980	取消	5		qǔ xiāo	to cancel	cancellation			f		hsk	
 1981	去世	5		qù shì	to pass away	to die			f		hsk	
+1975	请求	5		qǐng qiú	request	CL:個|个[gè]			f		hsk	
 1982	圈	5		quān	circle	ring	loop	classifier for loops	f		hsk	
 1983	全面	5		quán miàn	all-around	comprehensive	total	overall	f		hsk	
 1984	权力	5		quán lì	power	authority			f		hsk	
@@ -2125,11 +2114,11 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 2100	摔	5		shuāi	to throw down	to fall	to drop and break		f		hsk	
 2101	甩	5		shuǎi	to throw	to fling	to swing	to leave behind	f		hsk	
 2179	完美	5		wán měi	perfect	perfection	perfectly		f		hsk	
+2256	销售	5		xiāo shòu	to sell	market	sales		f		hsk	
 2102	双方	5		shuāng fāng	bilateral	both sides	both parties involved		f		hsk	
 2103	税	5		shuì	taxes	duties			f		hsk	
 2104	说不定	5		shuō bu dìng	can't say for sure	maybe			f		hsk	
 2105	说服	5		shuō fú	to persuade	to convince	to talk sb over	Taiwan pr. [shuì fú]	f		hsk	
-2106	撕	5		sī	to tear				f		hsk	
 2107	丝绸	5		sī chóu	silk cloth	silk			f		hsk	
 2108	丝毫	5		sī háo	the slightest amount or degree	a bit			f		hsk	
 2109	思考	5		sī kǎo	to reflect on	to ponder over			f		hsk	
@@ -2153,13 +2142,13 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 2127	谈判	5		tán pàn	to negotiate	negotiation	talks	conference	f		hsk	
 2128	坦率	5		tǎn shuài	frank (discussion)	blunt	open		f		hsk	
 2129	烫	5		tàng	to scald	to burn	to iron	hot	f		hsk	
-2130	桃	5		táo	peach				f		hsk	
 2131	逃	5		táo	to escape	to run away	to flee		f		hsk	
 2132	逃避	5		táo bì	to escape	to evade	to avoid	to shirk	f		hsk	
 2133	套	5		tào	cover	sheath	to encase	a case	f		hsk	
 2134	特殊	5		tè shū	special	particular	unusual	extraordinary	f		hsk	
 2135	特意	5		tè yì	specially	intentionally			f		hsk	
 2136	特征	5		tè zhēng	characteristic	diagnostic property	distinctive feature	trait	f		hsk	
+2130	桃	5		táo	peach				f		hsk	
 2137	疼爱	5		téng ài	to love dearly				f		hsk	
 2138	提	5		tí	to carry (hanging down from the hand)	to lift	to put forward	to mention	f		hsk	
 2139	提倡	5		tí chàng	to promote	to advocate			f		hsk	
@@ -2204,7 +2193,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 2178	弯	5		wān	bend	bent	CL:道[dào]		f		hsk	
 2180	完善	5		wán shàn	perfect	to make perfect	to improve		f		hsk	
 2181	完整	5		wán zhěng	complete	intact			f		hsk	
-2182	玩具	5		wán jù	plaything	toy			f		hsk	
 2183	万一	5		wàn yī	just in case	if by any chance	contingency		f		hsk	
 2184	王子	5		wáng zǐ	prince	son of a king			f		hsk	
 2185	往返	5		wǎng fǎn	to go back and forth	to go to and fro	round trip		f		hsk	
@@ -2279,10 +2267,8 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 2253	消化	5		xiāo huà	to digest	digestion	digestive		f		hsk	
 2254	消灭	5		xiāo miè	to put an end to	to annihilate	to cause to perish	to perish	f		hsk	
 2255	消失	5		xiāo shī	to disappear	to fade away			f		hsk	
-2256	销售	5		xiāo shòu	to sell	market	sales		f		hsk	
 2257	小吃	5		xiǎo chī	snack	refreshments	CL:家[jiā]		f		hsk	
 2258	小伙子	5		xiǎo huǒ zi	young man	young guy	lad	youngster	f		hsk	
-2259	小麦	5		xiǎo mài	wheat	CL:粒[lì]			f		hsk	
 2260	小气	5		xiǎo qì	stingy	petty	miserly	narrow-minded	f		hsk	
 2261	小偷	5		xiǎo tōu	thief				f		hsk	
 2262	效率	5		xiào lǜ	efficiency				f		hsk	
@@ -2307,7 +2293,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 2281	形状	5		xíng zhuàng	form	shape	CL:個|个[gè]		f		hsk	
 2282	性质	5		xìng zhì	nature	characteristic	CL:個|个[gè]		f		hsk	
 2283	幸亏	5		xìng kuī	fortunately	luckily			f		hsk	
-2284	幸运	5		xìng yùn	fortunate	lucky	fortune	luck	f		hsk	
 2285	胸	5		xiōng	chest	bosom	heart	mind	f		hsk	
 2286	兄弟	5		xiōng dì	brothers	younger brother	CL:個|个[gè]	I	f		hsk	
 2287	雄伟	5		xióng wěi	grand	imposing	magnificent	majestic	f		hsk	
@@ -2317,6 +2302,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 2291	叙述	5		xù shù	to relate (a story or information)	to tell or talk about	to recount	narration	f		hsk	
 2292	宣布	5		xuān bù	to declare	to announce	to proclaim		f		hsk	
 2293	宣传	5		xuān chuán	to disseminate	to give publicity to	propaganda	CL:個|个[gè]	f		hsk	
+2284	幸运	5		xìng yùn	fortunate	lucky	fortune	luck	f		hsk	
 2294	选举	5		xuǎn jǔ	to elect	election	CL:次	個|个[gè]	f		hsk	
 2295	学期	5		xué qī	term	semester	CL:個|个[gè]		f		hsk	
 2296	学术	5		xué shù	learning	science	academic	CL:個|个[gè]	f		hsk	
@@ -2350,7 +2336,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 2323	移动	5		yí dòng	to move	movement	migration	mobile	f		hsk	
 2324	移民	5		yí mín	to immigrate	to migrate	emigrant	immigrant	f		hsk	
 2325	疑问	5		yí wèn	question	interrogation	doubt		f		hsk	
-2326	乙	5		yǐ	second of 10 heavenly stems 十天干	second in order	letter 'B' or roman 'II' in list 'A', 'B', 'C', or 'I', 'II', 'III' etc	second party (in legal contract	f		hsk	
+2326	乙	5		yǐ	second of 10 heavenly stems 十天干	second in order	letter 'B' or roman 'II' in list 'A' 'B' 'C' or 'I' 'II' 'III' etc	second party (in legal contract	f		hsk	
 2327	以及	5		yǐ jí	as well as	too	and		f		hsk	
 2328	以来	5		yǐ lái	since (a previous event)				f		hsk	
 2329	意外	5		yì wài	unexpected	accident	mishap	CL:個|个[gè]	f		hsk	
@@ -2829,7 +2815,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 2803	抽空	6		chōu kòng	to find the time to do sth				f		hsk	
 2804	筹备	6		chóu bèi	preparations	to get ready for sth			f		hsk	
 2805	踌躇	6		chóu chú	to hesitate				f		hsk	
-2806	稠密	6		chóu mì	dense				f		hsk	
 2807	丑恶	6		chǒu è	ugly	repulsive			f		hsk	
 2808	出路	6		chū lù	a way out (of a difficulty etc)				f		hsk	
 2809	出卖	6		chū mài	to offer for sale	to sell	to sell out or betray		f		hsk	
@@ -3043,6 +3028,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 3016	发炎	6		fā yán	to become inflamed	inflammation			f		hsk	
 3017	发扬	6		fā yáng	to develop	to make full use of			f		hsk	
 3018	发育	6		fā yù	to develop	growth	development		f		hsk	
+3178	公正	6		gōng zhèng	just	fair	equitable		f		hsk	
 3019	法人	6		fǎ rén	legal person	corporation	see also 自然人[zì rán rén]		f		hsk	
 3020	番	6		fān	foreign	ethnic groups from outside China	(when used after a verb) times or fold	classifier for the number of iterations of an action or deed etc	f		hsk	
 3021	繁华	6		fán huá	flourishing	bustling			f		hsk	
@@ -3148,13 +3134,13 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 3123	赋予	6		fù yǔ	to assign	to entrust (a task)	to give	to bestow	f		hsk	
 3124	改良	6		gǎi liáng	to improve				f		hsk	
 3125	盖章	6		gài zhāng	to affix a seal (to sth)				f		hsk	
-3126	干旱	6		gān hàn	drought	arid	dry		f		hsk	
 3127	干扰	6		gān rǎo	to interfere	obstruction			f		hsk	
 3128	干涉	6		gān shè	to interfere	to meddle	interference		f		hsk	
 3129	干预	6		gān yù	to meddle	to intervene	intervention		f		hsk	
 3130	尴尬	6		gān gà	awkward	embarrassed			f		hsk	
 3131	甘心	6		gān xīn	to be willing to	to resign oneself to			f		hsk	
 3132	感慨	6		gǎn kǎi	to sigh with sorrow	regret etc	rueful	deeply moved	f		hsk	
+3126	干旱	6		gān hàn	drought	arid	dry		f		hsk	
 3133	感染	6		gǎn rǎn	infection	to infect	to influence		f		hsk	
 3134	干劲	6		gàn jìn	enthusiasm for doing sth				f		hsk	
 3135	纲领	6		gāng lǐng	program	guiding principle			f		hsk	
@@ -3200,7 +3186,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 3175	公认	6		gōng rèn	publicly known (to be)	accepted (as)			f		hsk	
 3176	公式	6		gōng shì	formula				f		hsk	
 3177	公务	6		gōng wù	official business				f		hsk	
-3178	公正	6		gōng zhèng	just	fair	equitable		f		hsk	
 3179	公证	6		gōng zhèng	notarization	notarized	acknowledgement		f		hsk	
 3180	供不应求	6		gōng bù yìng qiú	supply does not meet demand				f		hsk	
 3181	供给	6		gōng jǐ	to furnish	to provide	supply (as in supply and demand)		f		hsk	
@@ -3209,7 +3194,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 3184	宫殿	6		gōng diàn	palace	CL:座[zuò]			f		hsk	
 3185	功课	6		gōng kè	homework	assignment	task	classwork	f		hsk	
 3186	功劳	6		gōng láo	contribution	meritorious service	credit		f		hsk	
-3187	功效	6		gōng xiào	efficacy				f		hsk	
 3188	攻击	6		gōng jī	to attack	to accuse	to charge	an attack (terrorist or military)	f		hsk	
 3189	攻克	6		gōng kè	to capture	to take	to overcome	to solve	f		hsk	
 3190	恭敬	6		gōng jìng	deferential	respectful			f		hsk	
@@ -3357,7 +3341,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 3333	毁灭	6		huǐ miè	to perish	to ruin	to destroy		f		hsk	
 3334	会晤	6		huì wù	to meet	meeting	conference		f		hsk	
 3335	汇报	6		huì bào	to report	to give an account of	report		f		hsk	
-3336	贿赂	6		huì lù	to bribe	a bribe			f		hsk	
 3337	昏迷	6		hūn mí	to lose consciousness	to be in a coma	stupor	coma	f		hsk	
 3338	浑身	6		hún shēn	all over	from head to foot			f		hsk	
 3339	混合	6		hùn hé	to mix	to blend			f		hsk	
@@ -3610,10 +3593,10 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 3590	空洞	6		kōng dòng	cavity	empty	vacuous		f		hsk	
 3591	空前绝后	6		kōng qián jué hòu	unprecedented and never to be duplicated	the first and the last	unmatched	unique	f		hsk	
 3592	空想	6		kōng xiǎng	daydream	fantasy	to fantasize		f		hsk	
-4007	犬	6		quǎn	dog				f		hsk	
 3593	空虚	6		kōng xū	hollow	emptiness	meaningless		f		hsk	
 3594	孔	6		kǒng	hole	CL:個|个[gè]	classifier for cave dwellings		f		hsk	
 3595	恐吓	6		kǒng hè	to threaten	to menace			f		hsk	
+4007	犬	6		quǎn	dog				f		hsk	
 3596	恐惧	6		kǒng jù	fear	dread	phobia		f		hsk	
 3597	空白	6		kòng bái	blank space				f		hsk	
 3598	空隙	6		kòng xì	crack	gap between two objects	gap in time between two events		f		hsk	
@@ -3743,7 +3726,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 3722	嘛	6		ma	modal particle indicating that sth is obvious	particle indicating a pause for emphasis			f		hsk	
 3723	埋伏	6		mái fú	to ambush	to lie in wait for	to lie low	ambush	f		hsk	
 3724	埋没	6		mái mò	to engulf	to bury	to overlook	to stifle	f		hsk	
-3725	埋葬	6		mái zàng	to bury				f		hsk	
 3726	迈	6		mài	take a step				f		hsk	
 3727	脉搏	6		mài bó	a pulse (both medical and figurative)				f		hsk	
 3728	埋怨	6		mán yuàn	to complain	to grumble (about)	to reproach	to blame	f		hsk	
@@ -3756,7 +3738,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 3735	茫然	6		máng rán	blankly	vacantly	at a loss		f		hsk	
 3736	盲目	6		máng mù	blind	blindly	ignorant	lacking understanding	f		hsk	
 3737	冒充	6		mào chōng	to feign	to pretend to be	to pass oneself off as		f		hsk	
-3738	茂盛	6		mào shèng	lush				f		hsk	
 3739	枚	6		méi	classifier for coins	rings	badges	pearls	f		hsk	
 3740	没辙	6		méi zhé	(idiom) unable to solve; no way to escape a problem				f		hsk	
 3741	媒介	6		méi jiè	media	medium			f		hsk	
@@ -3764,6 +3745,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 3743	美观	6		měi guān	pleasing to the eye	beautiful	artistic		f		hsk	
 3744	美满	6		měi mǎn	happy	blissful			f		hsk	
 3745	美妙	6		měi miào	beautiful	wonderful	splendid		f		hsk	
+3738	茂盛	6		mào shèng	lush				f		hsk	
 3746	门诊	6		mén zhěn	outpatient service				f		hsk	
 3747	蒙	6		méng	to cover	ignorant	to suffer (misfortune)	to receive (a favor)	f		hsk	
 3748	萌芽	6		méng yá	sprout	germ of a plant			f		hsk	
@@ -4038,6 +4020,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4019	饶恕	6		ráo shù	to forgive	to pardon	to spare		f		hsk	
 4020	扰乱	6		rǎo luàn	to disturb	to perturb	to harass		f		hsk	
 4021	惹祸	6		rě huò	stirring up trouble	to invite disaster			f		hsk	
+4098	神色	6		shén sè	expression	look			f		hsk	
 4022	热泪盈眶	6		rè lèi yíng kuàng	eyes brimming with tears of excitement (idiom)	extremely moved			f		hsk	
 4023	热门	6		rè mén	popular	hot	in vogue		f		hsk	
 4024	人道	6		rén dào	human sympathy	humanitarianism	humane	the 'human way'	f		hsk	
@@ -4048,7 +4031,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4029	人士	6		rén shì	person	figure	public figure		f		hsk	
 4030	人为	6		rén wéi	artificial	man-made	having human cause or origin	human attempt or effort	f		hsk	
 4031	人性	6		rén xìng	human nature	humanity	human	the totality of human attributes	f		hsk	
-4032	人质	6		rén zhì	hostage				f		hsk	
 4033	仁慈	6		rén cí	benevolent	charitable	kind	kindly	f		hsk	
 4034	忍耐	6		rěn nài	to show restraint	to repress (anger etc)	to exercise patience		f		hsk	
 4035	忍受	6		rěn shòu	to bear	to endure			f		hsk	
@@ -4113,7 +4095,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4095	神奇	6		shén qí	magical	mystical	miraculous		f		hsk	
 4096	神气	6		shén qì	expression	manner	spirited	vigorous	f		hsk	
 4097	神情	6		shén qíng	look	expression			f		hsk	
-4098	神色	6		shén sè	expression	look			f		hsk	
 4099	神圣	6		shén shèng	divine	hallow	holy	sacred	f		hsk	
 4100	神态	6		shén tài	appearance	manner	bearing	deportment	f		hsk	
 4101	神仙	6		shén xiān	Daoist immortal	supernatural entity	(in modern fiction) fairy	elf	f		hsk	
@@ -4221,6 +4202,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4203	爽快	6		shuǎng kuai	refreshed	rejuvenated	frank and straightforward		f		hsk	
 4204	水利	6		shuǐ lì	water conservancy	irrigation works			f		hsk	
 4205	水龙头	6		shuǐ lóng tóu	faucet	tap			f		hsk	
+4606	氧气	6		yǎng qì	oxygen				f		hsk	
 4206	水泥	6		shuǐ ní	cement	CL:袋[dài]			f		hsk	
 4207	司法	6		sī fǎ	judicial	(administration of) justice			f		hsk	
 4208	司令	6		sī lìng	commanding officer				f		hsk	
@@ -4229,7 +4211,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4211	思维	6		sī wéi	(line of) thought	thinking			f		hsk	
 4212	思绪	6		sī xù	train of thought	emotional state	mood	feeling	f		hsk	
 4213	私自	6		sī zì	private	personal	secretly	without explicit approval	f		hsk	
-4606	氧气	6		yǎng qì	oxygen				f		hsk	
 4214	斯文	6		sī wén	refined	educate	cultured	intellectual	f		hsk	
 4215	死亡	6		sǐ wáng	to die	death			f		hsk	
 4216	四肢	6		sì zhī	the four limbs of the body				f		hsk	
@@ -4268,7 +4249,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4248	弹性	6		tán xìng	flexibility	elasticity			f		hsk	
 4249	坦白	6		tǎn bái	honest	forthcoming	to confess		f		hsk	
 4250	探测	6		tàn cè	to probe	to take readings	to explore	exploration	f		hsk	
-4251	探索	6		tàn suǒ	to explore	to probe			f		hsk	
 4252	探讨	6		tàn tǎo	to investigate	to probe			f		hsk	
 4253	探望	6		tàn wàng	to visit				f		hsk	
 4254	叹气	6		tàn qì	to sigh	to heave a sigh			f		hsk	
@@ -4434,14 +4414,12 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4413	武侠	6		wǔ xiá	martial arts chivalry (Chinese literary	theatrical and cinema genre)	knight-errant		f		hsk	
 4414	武装	6		wǔ zhuāng	arms	equipment	to arm	military	f		hsk	
 4415	侮辱	6		wǔ rǔ	to insult	to humiliate	dishonor		f		hsk	
-4416	勿	6		wù	do not				f		hsk	
 4417	务必	6		wù bì	must	to need to	to be sure to		f		hsk	
 4418	务实	6		wù shí	pragmatic	dealing with concrete issues			f		hsk	
 4419	误差	6		wù chā	difference	error	inaccuracy		f		hsk	
 4420	误解	6		wù jiě	to misunderstand	to misread	misunderstanding		f		hsk	
 4421	物美价廉	6		wù měi jià lián	good quality and cheap	a bargain			f		hsk	
 4422	物资	6		wù zī	goods	supplies			f		hsk	
-4423	溪	6		xī	variant of 溪	creek	rivulet		f		hsk	
 4424	膝盖	6		xī gài	knee				f		hsk	
 4425	熄灭	6		xī miè	to stop burning	to go out (of fire)	to die out	extinguished	f		hsk	
 4426	吸取	6		xī qǔ	to absorb	to draw (a lesson	insight etc)	to assimilate	f		hsk	
@@ -4450,6 +4428,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4429	夕阳	6		xī yáng	sunset	the setting sun			f		hsk	
 4430	媳妇	6		xí fù	daughter-in-law	wife (of a younger man)	young married woman	young woman	f		hsk	
 4431	习俗	6		xí sú	custom	tradition	local tradition	convention	f		hsk	
+4423	溪	6		xī	variant of 溪	creek	rivulet		f		hsk	
 4432	袭击	6		xí jī	attack (esp. surprise attack)	raid	to attack		f		hsk	
 4433	喜闻乐见	6		xǐ wén lè jiàn	a delight to see (idiom); an attractive spectacle				f		hsk	
 4434	喜悦	6		xǐ yuè	happy	joyous			f		hsk	
@@ -4590,16 +4569,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4570	压迫	6		yā pò	to oppress	to repress	to constrict	oppression	f		hsk	
 4571	压岁钱	6		yā suì qián	money given to children as new year present				f		hsk	
 4572	压缩	6		yā suō	to compress	compression			f		hsk	
-4573	压抑	6		yā yì	to constrain or repress emotions	oppressive	stifling	depressing	f		hsk	
-4574	压榨	6		yā zhà	to press	to squeeze	to extract juice	oil etc by squeezing	f		hsk	
-4575	压制	6		yā zhì	to suppress	to inhibit	to stifle		f		hsk	
-4576	亚军	6		yà jūn	second place (in a sports contest)	runner-up			f		hsk	
-4577	烟花	6		yān huā	fireworks	prostitute (esp. in Yuan theater)			f		hsk	
-4578	淹没	6		yān mò	to submerge	to drown	to flood	to drown out (also fig.)	f		hsk	
-4579	延期	6		yán qī	to delay	to extend	to postpone	to defer	f		hsk	
-4580	延伸	6		yán shēn	to extend	to spread			f		hsk	
-4581	延续	6		yán xù	to continue	to go on	to last		f		hsk	
-4582	严寒	6		yán hán	bitter cold	severe winter			f		hsk	
 4583	严禁	6		yán jìn	strictly prohibit				f		hsk	
 4584	严峻	6		yán jùn	grim	severe	rigorous		f		hsk	
 4585	严厉	6		yán lì	severe	strict			f		hsk	
@@ -4610,6 +4579,16 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4590	岩石	6		yán shí	rock				f		hsk	
 11	吃	1	2	chī	to eat	to consume	to eat at (a cafeteria etc)	to eradicate	f	1	hsk	
 10	茶	1	2	chá	tea	tea plant	CL:杯	壺|壶[hú]	f	2	hsk	
+4573	压抑	6		yā yì	to constrain or repress emotions	oppressive	stifling	depressing	f		hsk	
+4574	压榨	6		yā zhà	to press	to squeeze	to extract juice	oil etc by squeezing	f		hsk	
+4575	压制	6		yā zhì	to suppress	to inhibit	to stifle		f		hsk	
+4576	亚军	6		yà jūn	second place (in a sports contest)	runner-up			f		hsk	
+4577	烟花	6		yān huā	fireworks	prostitute (esp. in Yuan theater)			f		hsk	
+4578	淹没	6		yān mò	to submerge	to drown	to flood	to drown out (also fig.)	f		hsk	
+4579	延期	6		yán qī	to delay	to extend	to postpone	to defer	f		hsk	
+4580	延伸	6		yán shēn	to extend	to spread			f		hsk	
+4581	延续	6		yán xù	to continue	to go on	to last		f		hsk	
+4582	严寒	6		yán hán	bitter cold	severe winter			f		hsk	
 4982	足以	6		zú yǐ	sufficient to...	so much so that	so that		f		hsk	
 4983	组	6		zǔ	to form	to organize	group	team	f		hsk	
 26	儿子	1	3	ér zi	son				f	3	hsk	
@@ -4655,10 +4634,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 235	晴	2	16	qíng	clear	fine (weather)			f	3	hsk	
 213	累	2	7	lèi	tired	weary	to strain	to wear out	f	1	hsk	
 264	笑	2	15	xiào	laugh	smile	CL:個|个[gè]		f	3	hsk	
-4611	遥控	6		yáo kòng	remote control				f		hsk	
-4612	遥远	6		yáo yuǎn	distant	remote			f		hsk	
-4613	谣言	6		yáo yán	rumor				f		hsk	
-4614	咬牙切齿	6		yǎo yá qiè chǐ	gnashing one's teeth (idiom); displaying extreme anger	fuming with rage between gritted teeth			f		hsk	
 4615	要不然	6		yào bù rán	otherwise	or else	or		f		hsk	
 4616	要点	6		yào diǎn	main point	essential			f		hsk	
 4617	要命	6		yào mìng	to cause sb's death	very	extremely	frightening	f		hsk	
@@ -4669,6 +4644,10 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4622	一流	6		yī liú	top quality	front ranking			f		hsk	
 4623	依次	6		yī cì	in order	in succession			f		hsk	
 4624	依旧	6		yī jiù	as before	still			f		hsk	
+4611	遥控	6		yáo kòng	remote control				f		hsk	
+4612	遥远	6		yáo yuǎn	distant	remote			f		hsk	
+4613	谣言	6		yáo yán	rumor				f		hsk	
+4614	咬牙切齿	6		yǎo yá qiè chǐ	gnashing one's teeth (idiom); displaying extreme anger	fuming with rage between gritted teeth			f		hsk	
 4625	依据	6		yī jù	according to	basis	foundation		f		hsk	
 4626	依靠	6		yī kào	to rely on sth (for support etc)	to depend on			f		hsk	
 4627	依赖	6		yī lài	to depend on	to be dependent on			f		hsk	
@@ -4877,10 +4856,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4969	自满	6		zì mǎn	complacent	self-satisfied			f		hsk	
 4970	自主	6		zì zhǔ	independent	to act for oneself	autonomous		f		hsk	
 4971	踪迹	6		zōng jì	tracks	trail	footprint	trace	f		hsk	
-4972	宗旨	6		zōng zhǐ	objective	aim	goal		f		hsk	
-4973	棕色	6		zōng sè	brown				f		hsk	
 4974	总而言之	6		zǒng ér yán zhī	in short	in a word	in brief		f		hsk	
-4975	总和	6		zǒng hé	sum				f		hsk	
 4976	纵横	6		zòng héng	lit. warp and weft in weaving; vertically and horizontal	length and breadth	criss-crossed	able to move unhindered	f		hsk	
 4977	走廊	6		zǒu láng	corridor	aisle	hallway	colonnade	f		hsk	
 4978	走漏	6		zǒu lòu	to leak (of information	liquid etc)	to divulge		f		hsk	
@@ -4889,6 +4865,9 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 4981	租赁	6		zū lìn	to rent	to lease	to hire		f		hsk	
 4984	阻碍	6		zǔ ài	to obstruct	to hinder	to block		f		hsk	
 4985	阻拦	6		zǔ lán	to stop	to obstruct			f		hsk	
+4972	宗旨	6		zōng zhǐ	objective	aim	goal		f		hsk	
+4973	棕色	6		zōng sè	brown				f		hsk	
+4975	总和	6		zǒng hé	sum				f		hsk	
 4986	阻挠	6		zǔ náo	to thwart	to obstruct (sth)			f		hsk	
 4987	祖父	6		zǔ fù	father's father	paternal grandfather			f		hsk	
 4988	钻研	6		zuān yán	to study meticulously	to delve into			f		hsk	
@@ -4948,14 +4927,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5188	翡翠		100	fěi cuì	jade				f	1	wuxia	
 5178	翠		99	cuì	emerald				f	3	wuxia	
 5189	天蓝		99	tiān lán	azure				t	2	wuxia	
-208	可能	2	16	kě néng	might (happen)	possible	probable	possibility	f	2	hsk	294
-540	相信	3	31	xiāng xìn	to believe	to believe	to accept sth as true		t	2	hsk	
-138	在	1	9	zài	at	(to be) in	to exist	in the middle of doing sth	t	1	hsk	
-5040	车	1	12	chē	car				t	1	hsk	
-97	是	1	1	shì	is	are	am	yes	f	1	hsk	
-112	我	1	1	wǒ	I	me	my		f	1	hsk	
-8	不	1	1	bù	not	not	no		t	2	hsk	
-76	朋友	1	1	péng you	friend	CL:個|个	位[wèi]		f	2	hsk	111
 105	他	1	1	tā	he or him	(used for either sex when the sex is unknown or unimportant)	(used before sb's name for emphasis)	(used as a meaningless mock object)	f	2	hsk	
 46	叫	1	1	jiào	to be called	to call	to order	to ask	f	3	hsk	
 93	谁	1	1	shéi	who	also pr. [shuí]			f	3	hsk	
@@ -4964,6 +4935,14 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 106	她	1	1	tā	she				f	3	hsk	
 5	北京	1	9	Běi jīng	Beijing	capital of People's Republic of China	Peking	PRC government	f	1	hsk	8
 145	住	1	9	zhù	to live	to dwell	to stay	to reside	f	1	hsk	
+208	可能	2	16	kě néng	might (happen)	possible	probable	possibility	f	2	hsk	294
+540	相信	3	31	xiāng xìn	to believe	to believe	to accept sth as true		t	2	hsk	
+138	在	1	9	zài	at	(to be) in	to exist	in the middle of doing sth	t	1	hsk	
+5040	车	1	12	chē	car				t	1	hsk	
+97	是	1	1	shì	is	are	am	yes	f	1	hsk	
+112	我	1	1	wǒ	I	me	my		f	1	hsk	
+8	不	1	1	bù	not	not	no		t	2	hsk	
+76	朋友	1	1	péng you	friend	CL:個|个	位[wèi]		f	2	hsk	111
 253	完	2	14	wán	to finish	to be over	whole	complete	f	4	hsk	
 483	奇怪	3	25	qí guài	strange	odd	to marvel	to be baffled	f	4	hsk	
 288	张	2	9	zhāng	to open up	to spread	sheet of paper	classifier for flat objects	f	4	hsk	
@@ -5014,7 +4993,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 1126	友谊	4	63	yǒu yì	friendship	fellowship	friendship		t	4	hsk	
 5064	父母	4	56	fù mǔ	parents				t	2	hsk	
 698	朵	4	50	duǒ	flower	earlobe	fig. item on both sides	classifier for flowers	f	4	hsk	
-5054	肉	1	13	ròu	meat				t	3	hsk	
 5055	量	4	50	liàng	amount				t	3	hsk	
 5053	生长	4	50	shēng zhǎng	grow				t	3	hsk	
 5052	变成	4	50	biàn chéng	turn into				t	2	hsk	
@@ -5023,6 +5001,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5060	来说	4	60	lái shuō	concerning				t	1	hsk	
 5062	不满	4	66	bùmǎn	dissatisfaction				t	1	hsk	
 4492	写作	6	70	xiě zuò	writing	written works			f	1	hsk	
+5054	肉	1	13	ròu	meat				t	3	hsk	
 1095	演出	4	94	yǎn chū	to act (in a play)	to perform	to put on (a performance)	performance	f	1	hsk	
 635	参观	4	49	cān guān	to look around	to tour	to visit		f	1	hsk	
 981	十分	4	47	shí fēn	very	very	hundred percent	completely	t	1	hsk	
@@ -5089,7 +5068,6 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5081	巢		101	cháo	nest				t	2	wuxia	
 5074	灵炉		97	líng lú	spiritual furnace				f	1	wuxia	
 5078	拿著		97	ná zhe	hold				f	1	wuxia	
-5098	偷		97	tōu	steal				f	1	wuxia	
 5099	偷偷		97	tōutōu	secretly				f	1	wuxia	
 5100	尊敬		97	zūn jìng	respect				f	1	wuxia	
 5101	欺负		88	qī fù	bully				f	1	wuxia	
@@ -5100,6 +5078,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5106	伟大		94	wěi dà	great				f	1	wuxia	
 5107	伟大		97	wěi dà	great				f	1	wuxia	
 5108	懈怠		97	xiè dài	slack off				f	1	wuxia	
+5098	偷		97	tōu	steal				f	1	wuxia	
 5109	內灵力		87	nèi líng lì	inner spiritual power				f	1	wuxia	
 5110	源泉		97	yuán quán	source				f	1	wuxia	
 5111	魔法		97	mó fǎ	magic				f	1	wuxia	
@@ -5188,6 +5167,12 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5214	家规		103	jiā guī	clan rules				f	1	wuxia	
 5224	散修		97	sàn xiū	rogue cultivator				f	1	wuxia	
 5225	仙人		97	xiān rén	immortal				f	1	wuxia	
+4657	意图	6		yì tú	intent	intention	intend	schematic diagram	f		hsk	
+827	进行	4	91	jìn xíng	to advance	to conduct	underway	in progress	f	1	hsk	
+1131	语言	4	57	yǔ yán	language	CL:門|门	種|种[zhǒng]		f	1	hsk	
+932	签证	4	58	qiān zhèng	visa	certificate	to certify	CL:個|个[gè]	f	1	hsk	
+1059	吸引	4	62	xī yǐn	to attract	investment etc)	CL:個|个[gè]		t	1	hsk	
+811	将来	4	60	jiāng lái	in the future	future	the future	CL:個|个[gè]	f	1	hsk	
 5128	武院		87	wǔ yuàn	martial arts academy				f	3	wuxia	
 5223	者		87	zhě	-ist				f	2	wuxia	
 5226	无比		96	wú bǐ	incomparable				f	2	wuxia	
@@ -5204,7 +5189,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5204	飞剑		96	fēi jiàn	flying sword				f	3	wuxia	
 5232	长空		96	cháng kōng	vast sky 				f	3	wuxia	
 5231	划过		96	huà guò	streak				f	3	wuxia	
-5230	柄		96	bǐng	hilt, counter for swords				f	3	wuxia	
+5230	柄		96	bǐng	hilt; counter for swords				f	3	wuxia	
 5234	古老		89	gǔ lǎo	ancient				f	2	wuxia	
 5233	片		89	piàn	counter for forests				f	2	wuxia	
 5235	采集		89	cǎi jí	collect				f	2	wuxia	
@@ -5215,7 +5200,7 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5242	达到		90	dá dào	to reach				f	3	wuxia	
 5241	为		90	wéi	is				f	3	wuxia	
 5243	冰		90	bīng	ice				f	1	wuxia	
-5244	相当		102	xiāng dāng	 quite, rather				t	2	wuxia	
+5244	相当		102	xiāng dāng	 quite; rather				t	2	wuxia	
 5249	孵化		101	fūhuà	incubation				f	2	wuxia	
 5250	孵		101	fū	to hatch				f	2	wuxia	
 5246	获取		102	huòqǔ	obtain				f	3	wuxia	
@@ -5228,12 +5213,26 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5251	翱翔		101	ao xiáng	soar				f	3	wuxia	
 5252	心		98	xīn	heart				f	1	wuxia	
 5216	蛤蟆想吃天鹅肉			Hámá xiǎng chī tiāné ròu	toad wants to eat swan meat				f		wuxia	
-5220	卧虎藏龍			wò hǔ cáng lóng	crouching tiger, hidden dragon				f		wuxia	
 5257	厚		98	hòu	profound				f	1	wuxia	
 5217	不知天高地厚			bù zhī tiān gāo dì hòu	dont know the immensity of heaven and earth				f		wuxia	
 5259	罚		98	fá	penalty				f	1	wuxia	
 5258	敬酒		98	jìng jiǔ	toast 				t	1	wuxia	
 5222	敬酒不吃吃罚酒			jìng jiǔ bù chī chī fá jiǔ	refuse a toast only to be forced to drink a forfeit				f		wuxia	
+467	南	3	29	nán	south				f	4	hsk	
+125	写	1	14	xiě	to write				f	3	hsk	
+376	干净	3	26	gān jìng	clean	neat			f	3	hsk	
+865	懒	4	71	lǎn	lazy				f	3	hsk	
+1387	单调	5		dān diào	monotonous				f		hsk	
+2106	撕	5		sī	to tear				f		hsk	
+2182	玩具	5		wán jù	plaything	toy			f		hsk	
+2259	小麦	5		xiǎo mài	wheat	CL:粒[lì]			f		hsk	
+2806	稠密	6		chóu mì	dense				f		hsk	
+3187	功效	6		gōng xiào	efficacy				f		hsk	
+3336	贿赂	6		huì lù	to bribe	a bribe			f		hsk	
+3725	埋葬	6		mái zàng	to bury				f		hsk	
+4032	人质	6		rén zhì	hostage				f		hsk	
+4251	探索	6		tàn suǒ	to explore	to probe			f		hsk	
+4416	勿	6		wù	do not				f		hsk	
 5221	强者为尊			qiáng zhě wéi zūn	respect the strong				f		wuxia	
 5218	井底之蛙			Jǐng dǐ zhī wā	frog in the well				f		wuxia	
 5219	打草惊蛇			dǎ cǎo jīng shé	Beat the grass and alert the snake				f		wuxia	
@@ -5259,3 +5258,4 @@ id	hanzi	hsk	unit	pinyin	translations0	translations1	translations2	translations3
 5268	掌		99	zhǎng	palm				f	1	wuxia	
 5197	朱红		99	zhū hóng	vermilion				f	2	wuxia	
 5211	血脉		103	xuè mài	bloodline				t	2	wuxia	
+5220	卧虎藏龍			wò hǔ cáng lóng	crouching tiger- hidden dragon				f		wuxia	
