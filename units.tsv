@@ -68,7 +68,7 @@ unit_id	unit_name	hsk	course	unit_order	visible
 83	quality	4	hsk	83	1
 84	feelings	4	hsk	84	1
 87	intro		wuxia	1	1
-88	insults		wuxia	13	1
+88	insults		wuxia	13	0
 89	medicine		wuxia	3	1
 90	cultivation levels		wuxia	4	1
 91	places	4	hsk	91	1
@@ -77,10 +77,10 @@ unit_id	unit_name	hsk	course	unit_order	visible
 94	acting	4	hsk	94	1
 95	school IV	4	hsk	95	1
 96	weapons		wuxia	2	1
-97	ect		wuxia	15	1
+97	ect		wuxia	15	0
 98	phrases		wuxia	8	1
 99	colors		wuxia	10	1
-100	gems		wuxia	12	1
+100	gems		wuxia	12	0
 101	animals		wuxia	7	1
 102	sects		wuxia	6	1
 103	clans		wuxia	9	1
